@@ -1,0 +1,13 @@
+AFTER uploading the replacement HTML files in this patch:
+
+1. Open your GitHub evidence-lab repository.
+2. Click instructor.html.
+3. Use the file menu / trash icon to choose Delete file.
+4. Commit the deletion with:
+   Remove public Instructor Workspace
+5. Wait for GitHub Pages to rebuild.
+6. Visit:
+   https://yanlingliuinfolit.github.io/evidence-lab/instructor.html
+   It should return a 404/not-found page.
+
+The deleted public workspace did NOT contain keyed answers or hidden evidence values, so no secret scoring data was exposed by that page.
