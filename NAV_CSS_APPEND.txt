@@ -1,0 +1,4 @@
+
+/* Instructor Workspace navigation support */
+.navlinks{align-items:center}
+@media(max-width:900px){.nav .wrap{flex-wrap:wrap}.navlinks{width:100%;margin-left:0;padding-bottom:10px}}
