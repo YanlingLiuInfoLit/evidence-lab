@@ -966,12 +966,12 @@
           "text": "what's outside the crop?"
         }
       ],
-      "starter_html": "<figure class=\"artifact case-photo-artifact\"><img src=\"assets/case14-crop.png\" alt=\"Simulated tight crop showing several people close to a stopped vehicle; the surrounding event context is outside the frame.\" loading=\"lazy\"><figcaption>Simulated instructional reconstruction. What, if anything, is outside this crop?</figcaption></figure>",
+      "starter_html": "<section class=\"artifact\">\n<div class=\"artifact-kicker\">VIRAL POST</div>\n<p style=\"font-size:1.25rem;font-weight:800;margin:.25rem 0 1rem\">“Protesters surround and threaten driver”</p>\n<p class=\"muted\">This cropped image is circulating with the caption above.</p>\n<figure class=\"case-photo-artifact\">\n<img src=\"assets/case14-crop.png\" alt=\"Simulated tightly cropped image showing several people standing close to a stopped vehicle; the surrounding event context is outside the frame.\" loading=\"lazy\">\n</figure>\n</section>",
       "evidence": [
         {
           "evidence_id": "case-14-e1",
           "label": "Open the full frame",
-          "student_html": "<figure class=\"artifact case-photo-artifact\"><img src=\"assets/case14-wide.png\" alt=\"Wider view of the same stopped vehicle showing traffic cones, an event route, and people using directional gestures to guide traffic around the vehicle.\" loading=\"lazy\"><figcaption>The wider frame reveals the surrounding event route and traffic-direction context.</figcaption></figure>"
+          "student_html": "<figure class=\"artifact case-photo-artifact\">\n<img src=\"assets/case14-wide.png\" alt=\"Wider view of the same stopped vehicle showing traffic cones, a marked event route, and people making directional gestures around the vehicle.\" loading=\"lazy\">\n<figcaption>Wider frame from the same moment.</figcaption>\n</figure>"
         },
         {
           "evidence_id": "case-14-e2",

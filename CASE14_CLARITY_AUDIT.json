@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "checks": {
+    "viral_claim_present": true,
+    "starter_uses_crop_only": true,
+    "wide_frame_gated": true,
+    "wide_caption_neutral": true,
+    "scoring_lookup_fix_preserved": true,
+    "submit_fix_preserved": true
+  }
+}

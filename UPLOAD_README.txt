@@ -1,18 +1,17 @@
-CORE SCORING LOOKUP FIX
+CASE 14 CLARITY FIX
 
-Upload all files to repository root.
+Upload all files to repository root:
+- play.html
+- data/cases.public.json
+- assets/case14-crop.png
+- assets/case14-wide.png
+- CASE14_CLARITY_AUDIT.json
 
 Commit:
-Fix scoring lookup for Practice and Capstone
+Clarify Case 14 viral crop investigation
 
-Root cause:
-Protected scoring records were stored in an array but looked up by string case_id.
-The game now creates a case_id-keyed scoring map.
-
-After deployment:
-1. Start Practice.
-2. Open at least one evidence item.
-3. Select an answer and evidence.
-4. Click Submit investigation.
-5. Confirm the score/feedback screen appears.
-6. Repeat once in Capstone.
+Expected behavior:
+1. Starter shows the viral claim and cropped image only.
+2. Open the full frame reveals the wider image.
+3. The wider-image caption does not tell students the conclusion.
+4. Practice/Capstone scoring fix remains intact.
