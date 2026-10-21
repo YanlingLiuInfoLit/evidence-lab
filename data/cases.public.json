@@ -1118,12 +1118,12 @@
         {
           "evidence_id": "case-16-e2",
           "label": "Read the missing 12 seconds",
-          "student_html": "<figure class=\"artifact case-photo-artifact\"><img src=\"assets/case16-before.png\" alt=\"Simulated preceding context showing Student B repeatedly interrupting Student A before the viral excerpt begins.\" loading=\"lazy\"><figcaption>The missing preceding 12 seconds show repeated interruption before Student A shouts.</figcaption></figure>"
+          "student_html": "<figure class=\"artifact case-photo-artifact\"><img src=\"assets/case16-before-v2.png\" alt=\"Simulated preceding context showing Student B repeatedly interrupting Student A before the viral excerpt begins.\" loading=\"lazy\"><figcaption>The missing preceding 12 seconds show repeated interruption before Student A shouts.</figcaption></figure>"
         },
         {
           "evidence_id": "case-16-e3",
           "label": "Read what happens after",
-          "student_html": "<figure class=\"artifact case-photo-artifact\"><img src=\"assets/case16-after.png\" alt=\"Simulated later frame showing the same two students after the viral excerpt as the conversation de-escalates.\" loading=\"lazy\"><figcaption>After the excerpt, the interaction de-escalates and continues without a physical confrontation.</figcaption></figure>"
+          "student_html": "<figure class=\"artifact case-photo-artifact\"><img src=\"assets/case16-after-v2.png\" alt=\"Simulated later frame showing the same two students after the viral excerpt as the conversation de-escalates.\" loading=\"lazy\"><figcaption>After the excerpt, the interaction de-escalates and continues without a physical confrontation.</figcaption></figure>"
         },
         {
           "evidence_id": "case-16-e4",

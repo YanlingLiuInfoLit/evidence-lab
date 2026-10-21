@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "checks": {
+    "new_before_exists": true,
+    "new_after_exists": true,
+    "public_json_uses_v2": true,
+    "play_uses_v2": true,
+    "old_reveal_refs_absent": true
+  }
+}

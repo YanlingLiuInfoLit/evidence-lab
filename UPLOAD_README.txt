@@ -1,11 +1,11 @@
-Upload everything to the repository root.
-
-This is a cosmetic-only Case 16 cleanup. It removes explanatory text from inside the BEFORE and AFTER illustrations. The readable captions below the images remain unchanged.
+Upload all files to the repository root:
+- play.html
+- data/cases.public.json
+- assets/case16-before-v2.png
+- assets/case16-after-v2.png
+- CASE16_CACHE_BUST_AUDIT.json
 
 Commit:
-Clean up Case 16 evidence visuals
+Refresh cleaned Case 16 evidence images
 
-After deployment, hard-refresh Case 16 and open:
-- Read the missing 12 seconds
-- Read what happens after
-The figures should be uncluttered, with explanation only in the caption below.
+The v2 filenames intentionally bypass cached copies of the older PNG files.
