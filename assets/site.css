@@ -8,3 +8,11 @@
 
 /* Release Candidate additions */
 .sticky-tools{position:sticky;top:0;z-index:20;background:rgba(255,255,255,.96);backdrop-filter:blur(8px);padding:10px 0;border-bottom:1px solid var(--line);margin-bottom:18px}.sticky-tools .controls{display:flex;gap:8px;flex-wrap:wrap}.completed-badge{font-size:.82rem;font-weight:800;color:#245c3a}.log-summary{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin:16px 0}.logitem{padding:14px;border:1px solid var(--line);border-radius:12px;margin:10px 0}.checklist label{display:block;padding:7px 0}.privacy-note{font-size:.92rem;color:var(--muted);background:#f5f7fb;padding:12px;border-radius:10px}.challenge-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:12px}.challenge-grid button{text-align:left;min-height:110px}.artifact-ui table{border-collapse:collapse;width:100%;margin-top:8px}.artifact-ui th,.artifact-ui td{padding:7px;border-bottom:1px solid var(--line);text-align:left}@media print{.nav,.footer,.no-print,.sticky-tools{display:none!important}.wrap{max-width:none}.card{box-shadow:none}}
+
+/* Accessibility contrast patch */
+:root{--muted:#4b5b73}
+.muted,.privacy-note{color:var(--muted)}
+.challenge-grid button.primary,.challenge-grid button.primary .muted{color:#fff}
+.challenge-grid button.primary .muted{opacity:.92}
+button:disabled,.choice:disabled{color:#667085;background:#f2f4f7;border-color:#d0d5dd;opacity:1;cursor:not-allowed}
+button:disabled .muted,.choice:disabled .muted{color:#667085}
