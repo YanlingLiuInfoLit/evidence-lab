@@ -1,0 +1,14 @@
+
+/* Evidence Lab 1.0 multimodal artifacts */
+.artifact{margin:14px 0;padding:16px;border:1px solid var(--line);border-radius:16px;background:#fff;overflow:hidden}
+.artifact-kicker{font-size:.76rem;font-weight:850;letter-spacing:.08em;color:var(--accent);margin-bottom:8px}
+.artifact-small,.artifact figcaption{font-size:.88rem;color:var(--muted);margin-top:8px}.artifact-source{font-size:.8rem;color:var(--muted);margin-top:12px}
+.bigclaim{font-size:1.5rem;font-weight:850;line-height:1.15}.tree-row{font-size:2.4rem;margin:15px 0}
+.photo-stage{min-height:180px;border-radius:12px;display:flex;align-items:end;justify-content:center;gap:8px;padding:25px;background:linear-gradient(#dce7ef,#b7c2ca)}
+.crop-stage .car{font-size:5rem}.crop-stage .people{font-size:2rem;letter-spacing:-8px}
+.compare-grid,.translate-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}.scene{min-height:150px;padding:25px;text-align:center;font-size:2.5rem;border-radius:10px}.scene.dramatic{background:#53606d;filter:contrast(1.4)}.scene.original{background:#d9e8f4}
+.post-head,.profile-row,.email-row{font-size:.92rem}.post-head span,.profile-row span{color:var(--muted)}.meme-stage{min-height:220px;background:#1d2633;border-radius:12px;color:white;display:grid;place-items:center;font-size:3rem;position:relative}.meme-text{font-weight:900;font-size:2rem;line-height:1;text-align:center;background:#000b;padding:8px}.post-meta{color:var(--muted);margin-top:10px}
+.fake-button,.dm-actions span{display:inline-block;padding:9px 14px;border-radius:8px;background:#eef2ff;margin:5px 6px 5px 0;font-weight:700}.profile-row{display:flex;gap:10px;align-items:center}.avatar{width:42px;height:42px;border-radius:50%;display:grid;place-items:center;background:#e9eeff;font-weight:800}
+.chart-area{height:230px;display:flex;gap:10px;border-left:2px solid #8994a8;border-bottom:2px solid #8994a8;padding:8px 25px 0 8px}.ylabels{display:flex;flex-direction:column;justify-content:space-between;font-size:.78rem;color:var(--muted)}.bars{flex:1;display:flex;align-items:end;justify-content:space-around}.barwrap{height:100%;display:flex;flex-direction:column;justify-content:end;align-items:center;gap:4px}.bar{width:75px;background:#657bd8;border-radius:6px 6px 0 0}.b100{height:50%}.b103{height:87.5%}
+.poll-big{font-size:3.5rem;font-weight:900}.poll-bars{display:grid;gap:5px}.feeditem,.source-tile{padding:10px 0;border-bottom:1px solid var(--line)}.feeditem:last-child,.source-tile:last-child{border-bottom:0}.translate-grid>div{padding:12px;background:#f4f6fb;border-radius:10px}.ai-head{font-weight:800}.ai-user{margin:10px 0 10px auto;max-width:75%;background:#e9eeff;padding:10px;border-radius:12px}.ai-answer{background:#f4f6fb;padding:10px;border-radius:12px}.artifact-context{margin-top:10px}
+@media(max-width:650px){.compare-grid,.translate-grid{grid-template-columns:1fr}.bar{width:52px}}

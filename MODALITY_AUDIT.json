@@ -1,0 +1,85 @@
+{
+  "status": "PASS",
+  "cases_audited": 13,
+  "resolved": [
+    {
+      "case": 13,
+      "title": "Wait\u2026Is That Here?",
+      "artifact_present": true,
+      "accessible_label": true
+    },
+    {
+      "case": 14,
+      "title": "The Cropped Protest Photo",
+      "artifact_present": true,
+      "accessible_label": true
+    },
+    {
+      "case": 15,
+      "title": "Is This AI-Generated?",
+      "artifact_present": true,
+      "accessible_label": true
+    },
+    {
+      "case": 16,
+      "title": "The Video Starts 12 Seconds Late",
+      "artifact_present": true,
+      "accessible_label": true
+    },
+    {
+      "case": 22,
+      "title": "Your Account Will Be Locked Today",
+      "artifact_present": true,
+      "accessible_label": true
+    },
+    {
+      "case": 23,
+      "title": "A Recruiter Just DM'd Me",
+      "artifact_present": true,
+      "accessible_label": true
+    },
+    {
+      "case": 27,
+      "title": "CAMPUS CLOSED TOMORROW",
+      "artifact_present": true,
+      "accessible_label": true
+    },
+    {
+      "case": 29,
+      "title": "This Chart Looks Terrifying",
+      "artifact_present": true,
+      "accessible_label": true
+    },
+    {
+      "case": 30,
+      "title": "90% of Students Agree!",
+      "artifact_present": true,
+      "accessible_label": true
+    },
+    {
+      "case": 31,
+      "title": "BREAKING: Nobody Knows Yet",
+      "artifact_present": true,
+      "accessible_label": true
+    },
+    {
+      "case": 33,
+      "title": "Mom Sent This in the Family Chat",
+      "artifact_present": true,
+      "accessible_label": true
+    },
+    {
+      "case": 35,
+      "title": "AI Search Quoted the Article",
+      "artifact_present": true,
+      "accessible_label": true
+    },
+    {
+      "case": 36,
+      "title": "AI Tutor Beat the Professor!",
+      "artifact_present": true,
+      "accessible_label": true
+    }
+  ],
+  "note": "Artifacts are fictional, HTML/CSS-native, selectable, responsive, and include accessible labels. No real institutional branding is used."
+}
