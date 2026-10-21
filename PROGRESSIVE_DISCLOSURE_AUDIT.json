@@ -1,0 +1,92 @@
+{
+  "status": "PASS",
+  "cases_checked": 13,
+  "principle": "Starter shows only the encountered information object; investigative evidence remains behind the corresponding evidence choice.",
+  "audit": [
+    {
+      "case": 13,
+      "starter": "initial social/photo claim",
+      "gated": "earlier copies, metadata, comparison remain gated",
+      "status": "PASS"
+    },
+    {
+      "case": 14,
+      "starter": "cropped image only",
+      "gated": "full frame gated behind Open the full frame",
+      "status": "PASS"
+    },
+    {
+      "case": 15,
+      "starter": "initial unusual image",
+      "gated": "source, detectors, metadata gated",
+      "status": "PASS"
+    },
+    {
+      "case": 16,
+      "starter": "viral excerpt only",
+      "gated": "before/after context gated separately",
+      "status": "PASS"
+    },
+    {
+      "case": 22,
+      "starter": "received billing message",
+      "gated": "sender/link/official portal checks gated",
+      "status": "PASS"
+    },
+    {
+      "case": 23,
+      "starter": "received recruiter DM",
+      "gated": "profile/company/position/action checks gated",
+      "status": "PASS"
+    },
+    {
+      "case": 27,
+      "starter": "circulating closure screenshot",
+      "gated": "official site/timestamp/wording checks gated",
+      "status": "PASS"
+    },
+    {
+      "case": 29,
+      "starter": "misleading chart itself",
+      "gated": "table/axis interpretation/calculation gated",
+      "status": "PASS"
+    },
+    {
+      "case": 30,
+      "starter": "poll headline/result only",
+      "gated": "methodology N=1,012 and uncertainty gated",
+      "status": "PASS"
+    },
+    {
+      "case": 31,
+      "starter": "breaking claim only",
+      "gated": "reporter/social/other/official updates gated",
+      "status": "PASS"
+    },
+    {
+      "case": 33,
+      "starter": "forwarded English translation only",
+      "gated": "translation comparison/government notice gated",
+      "status": "PASS"
+    },
+    {
+      "case": 35,
+      "starter": "AI claim and citation",
+      "gated": "article/quote/34%/study checks gated",
+      "status": "PASS"
+    },
+    {
+      "case": 36,
+      "starter": "viral capstone claim",
+      "gated": "population/comparison/outcome/chain gated",
+      "status": "PASS"
+    }
+  ],
+  "corrected_cases": [
+    14,
+    16,
+    30,
+    31,
+    33
+  ]
+}

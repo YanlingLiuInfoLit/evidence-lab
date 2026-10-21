@@ -966,12 +966,12 @@
           "text": "what's outside the crop?"
         }
       ],
-      "starter_html": "<figure class=\"artifact case-photo-artifact\"><img src=\"assets/case14-crop-context.png\" alt=\"Simulated instructional reconstruction showing the same stopped vehicle twice: a tight crop makes nearby people appear to surround the driver, while the wider frame reveals traffic cones and people directing traffic around the vehicle during a campus event detour.\" loading=\"lazy\"><figcaption>Simulated instructional reconstruction created for Evidence Lab.</figcaption></figure>",
+      "starter_html": "<figure class=\"artifact case-photo-artifact\"><img src=\"assets/case14-crop.png\" alt=\"Simulated tight crop showing several people close to a stopped vehicle; the surrounding event context is outside the frame.\" loading=\"lazy\"><figcaption>Simulated instructional reconstruction. What, if anything, is outside this crop?</figcaption></figure>",
       "evidence": [
         {
           "evidence_id": "case-14-e1",
           "label": "Open the full frame",
-          "student_html": "The wider frame shows event marshals directing pedestrians around a stalled vehicle; the route and police are visible farther back."
+          "student_html": "<figure class=\"artifact case-photo-artifact\"><img src=\"assets/case14-wide.png\" alt=\"Wider view of the same stopped vehicle showing traffic cones, an event route, and people using directional gestures to guide traffic around the vehicle.\" loading=\"lazy\"><figcaption>The wider frame reveals the surrounding event route and traffic-direction context.</figcaption></figure>"
         },
         {
           "evidence_id": "case-14-e2",
@@ -1108,7 +1108,7 @@
           "text": "full clip?"
         }
       ],
-      "starter_html": "<figure class=\"artifact case-photo-artifact\"><img src=\"assets/case16-video-context.png\" alt=\"Simulated three-frame video sequence from one campus conversation. The missing twelve seconds show one student repeatedly interrupting another; the viral excerpt begins with the interrupted student shouting, and the later frame shows the conversation de-escalating.\" loading=\"lazy\"><figcaption>Simulated instructional reconstruction created for Evidence Lab.</figcaption></figure>",
+      "starter_html": "<figure class=\"artifact case-photo-artifact\"><img src=\"assets/case16-viral.png\" alt=\"Simulated frame from a 14-second viral excerpt that begins with one student shouting Let me finish at another student.\" loading=\"lazy\"><figcaption>Viral excerpt. The shared clip begins here.</figcaption></figure>",
       "evidence": [
         {
           "evidence_id": "case-16-e1",
@@ -1118,12 +1118,12 @@
         {
           "evidence_id": "case-16-e2",
           "label": "Read the missing 12 seconds",
-          "student_html": "Student B repeatedly interrupts and says, “You clearly don't understand what you're talking about.”"
+          "student_html": "<figure class=\"artifact case-photo-artifact\"><img src=\"assets/case16-before.png\" alt=\"Simulated preceding context showing Student B repeatedly interrupting Student A before the viral excerpt begins.\" loading=\"lazy\"><figcaption>The missing preceding 12 seconds show repeated interruption before Student A shouts.</figcaption></figure>"
         },
         {
           "evidence_id": "case-16-e3",
           "label": "Read what happens after",
-          "student_html": "A moderator separates the students; no physical confrontation occurs in the remaining footage."
+          "student_html": "<figure class=\"artifact case-photo-artifact\"><img src=\"assets/case16-after.png\" alt=\"Simulated later frame showing the same two students after the viral excerpt as the conversation de-escalates.\" loading=\"lazy\"><figcaption>After the excerpt, the interaction de-escalates and continues without a physical confrontation.</figcaption></figure>"
         },
         {
           "evidence_id": "case-16-e4",
@@ -2098,7 +2098,7 @@
           "text": "90% still sounds fake"
         }
       ],
-      "starter_html": "<figure class=\"artifact\" role=\"img\" aria-label=\"Poll headline stating that 90 percent of surveyed college students support expanded library weekend hours, based on a sample of 1,012 currently enrolled students\"><div class=\"artifact-kicker\">POLL HEADLINE</div><h4 style=\"font-size:1.35rem\">90% of surveyed college students support expanded library weekend hours</h4><div style=\"display:flex;align-items:center;gap:18px;margin:14px 0\"><div style=\"width:110px;height:110px;border-radius:50%;border:18px solid #667bd8;display:grid;place-items:center;font-size:1.7rem;font-weight:900\">90%</div><div><b>Support</b><br><span class=\"muted\">Sample: 1,012 currently enrolled students</span></div></div><figcaption>Is a sample of about one thousand automatically too small?</figcaption></figure>",
+      "starter_html": "<figure class=\"artifact\" role=\"img\" aria-label=\"Poll headline stating that 90 percent of surveyed college students support expanded library weekend hours, based on a sample of 1,012 currently enrolled students\"><div class=\"artifact-kicker\">POLL HEADLINE</div><h4 style=\"font-size:1.35rem\">90% of surveyed college students support expanded library weekend hours</h4><div style=\"display:flex;align-items:center;gap:18px;margin:14px 0\"><div style=\"width:110px;height:110px;border-radius:50%;border:18px solid #667bd8;display:grid;place-items:center;font-size:1.7rem;font-weight:900\">90%</div><div><b>Support</b><br><span class=\"muted\">National student poll</span></div></div><figcaption>Is a sample of about one thousand automatically too small?</figcaption></figure>",
       "evidence": [
         {
           "evidence_id": "case-30-e1",
@@ -2173,7 +2173,7 @@
           "text": "what do officials actually know yet?"
         }
       ],
-      "starter_html": "<section class=\"artifact\" aria-label=\"Simulated breaking-news feed in which several accounts offer conflicting explanations for a loud explosion while officials say the cause is not yet known\"><div class=\"artifact-kicker\">LIVE UPDATES</div><div style=\"padding:8px 0;border-bottom:1px solid #d9dfeb\"><b>Local Reporter</b> · 18m<p>Police and fire crews are responding after a loud explosion near campus. Cause unknown.</p></div><div style=\"padding:8px 0;border-bottom:1px solid #d9dfeb\"><b>Viral Account</b> · 12m<p>“It was definitely an attack.” No source for the cause is provided.</p></div><div style=\"padding:8px 0;border-bottom:1px solid #d9dfeb\"><b>Neighborhood Updates</b> · 9m<p>Claims a transformer exploded; no direct evidence provided.</p></div><div style=\"padding:8px 0\"><b>Official Emergency Update</b> · 4m<p>Emergency response underway. The cause has not been determined.</p></div></section>",
+      "starter_html": "<section class=\"artifact\" aria-label=\"Breaking social post about a loud explosion near campus\"><div class=\"artifact-kicker\">BREAKING POST</div><p><b>CampusNow</b> · just now</p><p style=\"font-size:1.2rem\"><b>LOUD EXPLOSION REPORTED NEAR CAMPUS — reports spreading fast. What happened?</b></p><p class=\"muted\">Cause not established in the post.</p></section>",
       "evidence": [
         {
           "evidence_id": "case-31-e1",
@@ -2311,7 +2311,7 @@
           "text": "yeah — the translation sounds stronger than the link"
         }
       ],
-      "starter_html": "<section class=\"artifact\" aria-label=\"Original-language student-fee policy message and an English viral translation that changes may be required to pay into must pay\"><div class=\"artifact-kicker\">TRANSLATION VIEW</div><div style=\"display:grid;grid-template-columns:1fr 1fr;gap:10px\"><div style=\"padding:12px;background:#f4f6fb;border-radius:10px\"><b>Original-language message</b><p>Según las circunstancias especificadas, algunos estudiantes internacionales <b>podrían estar obligados a pagar</b> una nueva tarifa federal de registro.</p></div><div style=\"padding:12px;background:#f4f6fb;border-radius:10px\"><b>Viral English translation</b><p>Starting next month, international students <b>must pay</b> a new federal registration fee.</p></div></div><p class=\"muted\">Forwarded repeatedly in a family chat; translator not identified.</p></section>",
+      "starter_html": "<section class=\"artifact\" aria-label=\"Forwarded family-chat message claiming international students must pay a new federal registration fee\"><div class=\"artifact-kicker\">FORWARDED MESSAGE</div><p><b>Viral English translation:</b></p><p style=\"font-size:1.15rem\">Starting next month, international students <b>must pay</b> a new federal registration fee.</p><p class=\"muted\">Forwarded repeatedly · translator not identified</p></section>",
       "evidence": [
         {
           "evidence_id": "case-33-e1",
