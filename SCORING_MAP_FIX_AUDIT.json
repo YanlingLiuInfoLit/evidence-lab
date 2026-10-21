@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "root_cause": "Protected scoring data P was an array, but submission attempted pm[c.case_id]. Because pm was assigned directly to P, string case IDs returned undefined. pm is now a case_id-keyed lookup object.",
+  "checks": {
+    "protected_records": true,
+    "unique_case_ids": true,
+    "case_01_present": true,
+    "case_36_present": true,
+    "keyed_map_created": true,
+    "submit_uses_case_id_lookup": true,
+    "submit_handler_unique": true
+  }
+}

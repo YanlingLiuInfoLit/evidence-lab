@@ -1,16 +1,18 @@
-CORE SUBMIT FIX
+CORE SCORING LOOKUP FIX
 
-Upload all files to repository root:
-- play.html
-- data/cases.public.json
-- assets/case16-before-v2.png
-- assets/case16-after-v2.png
-- SUBMIT_FIX_AUDIT.json
+Upload all files to repository root.
 
 Commit:
-Fix Practice and Capstone submit handler
+Fix scoring lookup for Practice and Capstone
 
-Smoke test after deployment:
-1. Practice: select an answer, evidence, confidence, click Submit investigation.
-2. Confirm Investigation complete / score / feedback appears.
-3. Capstone: repeat and confirm submission works there too.
+Root cause:
+Protected scoring records were stored in an array but looked up by string case_id.
+The game now creates a case_id-keyed scoring map.
+
+After deployment:
+1. Start Practice.
+2. Open at least one evidence item.
+3. Select an answer and evidence.
+4. Click Submit investigation.
+5. Confirm the score/feedback screen appears.
+6. Repeat once in Capstone.
