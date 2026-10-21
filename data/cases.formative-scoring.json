@@ -6,7 +6,6 @@
       "skill": "Citation verification",
       "target_misconception": "A professional-looking citation probably exists.",
       "keyed_answer_id": "a1",
-      "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-01-e1": 3,
         "case-01-e2": 3,
@@ -17,8 +16,8 @@
         "decision": 4,
         "evidence_quality": 3,
         "reasoning": 2,
-        "efficiency": 1,
-        "confidence_points": 0
+        "confidence_points": 0,
+        "strategy": 1
       }
     },
     {
@@ -26,7 +25,6 @@
       "skill": "Claim-to-source fit",
       "target_misconception": "Once a source is real, a broad paraphrase is safe.",
       "keyed_answer_id": "a2",
-      "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-02-e1": 3,
         "case-02-e2": 3,
@@ -37,8 +35,8 @@
         "decision": 4,
         "evidence_quality": 3,
         "reasoning": 2,
-        "efficiency": 1,
-        "confidence_points": 0
+        "confidence_points": 0,
+        "strategy": 1
       }
     },
     {
@@ -46,7 +44,6 @@
       "skill": "AI evaluation",
       "target_misconception": "AI origin makes advice automatically wrong.",
       "keyed_answer_id": "a3",
-      "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-03-e1": 3,
         "case-03-e2": 3,
@@ -57,8 +54,8 @@
         "decision": 4,
         "evidence_quality": 3,
         "reasoning": 2,
-        "efficiency": 1,
-        "confidence_points": 0
+        "confidence_points": 0,
+        "strategy": 1
       }
     },
     {
@@ -66,7 +63,6 @@
       "skill": "Uncertainty calibration",
       "target_misconception": "Confidence language is corroboration.",
       "keyed_answer_id": "a4",
-      "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-04-e1": 2,
         "case-04-e2": 3,
@@ -77,8 +73,8 @@
         "decision": 4,
         "evidence_quality": 3,
         "reasoning": 2,
-        "efficiency": 1,
-        "confidence_points": 0
+        "confidence_points": 0,
+        "strategy": 1
       }
     },
     {
@@ -86,7 +82,6 @@
       "skill": "Summary verification",
       "target_misconception": "A mostly accurate summary is safe in every sentence.",
       "keyed_answer_id": "a1",
-      "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-05-e1": 3,
         "case-05-e2": 3,
@@ -97,8 +92,8 @@
         "decision": 4,
         "evidence_quality": 3,
         "reasoning": 2,
-        "efficiency": 1,
-        "confidence_points": 0
+        "confidence_points": 0,
+        "strategy": 1
       }
     },
     {
@@ -106,7 +101,6 @@
       "skill": "Rumor verification",
       "target_misconception": "Repetition strengthens an untraceable rumor.",
       "keyed_answer_id": "a2",
-      "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-06-e1": 3,
         "case-06-e2": 3,
@@ -117,8 +111,8 @@
         "decision": 4,
         "evidence_quality": 3,
         "reasoning": 2,
-        "efficiency": 1,
-        "confidence_points": 0
+        "confidence_points": 0,
+        "strategy": 1
       }
     },
     {
@@ -126,7 +120,6 @@
       "skill": "Source tracing",
       "target_misconception": "Different platforms equal independent corroboration.",
       "keyed_answer_id": "a3",
-      "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-07-e1": 3,
         "case-07-e2": 3,
@@ -137,8 +130,8 @@
         "decision": 4,
         "evidence_quality": 3,
         "reasoning": 2,
-        "efficiency": 1,
-        "confidence_points": 0
+        "confidence_points": 0,
+        "strategy": 1
       }
     },
     {
@@ -146,7 +139,6 @@
       "skill": "Positive verification",
       "target_misconception": "Informal arrival channels make claims unreliable even after verification.",
       "keyed_answer_id": "a4",
-      "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-08-e1": 3,
         "case-08-e2": 3,
@@ -157,8 +149,8 @@
         "decision": 4,
         "evidence_quality": 3,
         "reasoning": 2,
-        "efficiency": 1,
-        "confidence_points": 0
+        "confidence_points": 0,
+        "strategy": 1
       }
     },
     {
@@ -166,7 +158,6 @@
       "skill": "Correction responsibility",
       "target_misconception": "Deleting misinformation fully repairs its effects.",
       "keyed_answer_id": "a1",
-      "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-09-e1": 3,
         "case-09-e2": 3,
@@ -177,8 +168,8 @@
         "decision": 4,
         "evidence_quality": 3,
         "reasoning": 2,
-        "efficiency": 1,
-        "confidence_points": 0
+        "confidence_points": 0,
+        "strategy": 1
       }
     },
     {
@@ -186,7 +177,6 @@
       "skill": "Research persistence",
       "target_misconception": "No instant PDF means a source is unusable.",
       "keyed_answer_id": "a2",
-      "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-10-e1": 3,
         "case-10-e2": 2,
@@ -197,8 +187,8 @@
         "decision": 4,
         "evidence_quality": 3,
         "reasoning": 2,
-        "efficiency": 1,
-        "confidence_points": 0
+        "confidence_points": 0,
+        "strategy": 1
       }
     },
     {
@@ -206,7 +196,6 @@
       "skill": "Contextual authority",
       "target_misconception": "Prestigious credentials transfer to unrelated domains.",
       "keyed_answer_id": "a3",
-      "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-11-e1": 2,
         "case-11-e2": 3,
@@ -217,8 +206,8 @@
         "decision": 4,
         "evidence_quality": 3,
         "reasoning": 2,
-        "efficiency": 1,
-        "confidence_points": 0
+        "confidence_points": 0,
+        "strategy": 1
       }
     },
     {
@@ -226,7 +215,6 @@
       "skill": "Numerical claim tracing",
       "target_misconception": "A plausible general idea validates a precise statistic.",
       "keyed_answer_id": "a4",
-      "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-12-e1": 3,
         "case-12-e2": 3,
@@ -237,8 +225,8 @@
         "decision": 4,
         "evidence_quality": 3,
         "reasoning": 2,
-        "efficiency": 1,
-        "confidence_points": 0
+        "confidence_points": 0,
+        "strategy": 1
       }
     },
     {
@@ -246,7 +234,6 @@
       "skill": "Visual provenance",
       "target_misconception": "A genuine-looking image verifies its caption.",
       "keyed_answer_id": "a1",
-      "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-13-e1": 3,
         "case-13-e2": 2,
@@ -257,8 +244,8 @@
         "decision": 4,
         "evidence_quality": 3,
         "reasoning": 2,
-        "efficiency": 1,
-        "confidence_points": 0
+        "confidence_points": 0,
+        "strategy": 1
       }
     },
     {
@@ -266,7 +253,6 @@
       "skill": "Context restoration",
       "target_misconception": "Authentic pixels guarantee complete context.",
       "keyed_answer_id": "a2",
-      "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-14-e1": 3,
         "case-14-e2": 3,
@@ -277,8 +263,8 @@
         "decision": 4,
         "evidence_quality": 3,
         "reasoning": 2,
-        "efficiency": 1,
-        "confidence_points": 0
+        "confidence_points": 0,
+        "strategy": 1
       }
     },
     {
@@ -286,7 +272,6 @@
       "skill": "Synthetic-media evaluation",
       "target_misconception": "AI detectors are truth machines.",
       "keyed_answer_id": "a3",
-      "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-15-e1": 3,
         "case-15-e2": 1,
@@ -297,8 +282,8 @@
         "decision": 4,
         "evidence_quality": 3,
         "reasoning": 2,
-        "efficiency": 1,
-        "confidence_points": 0
+        "confidence_points": 0,
+        "strategy": 1
       }
     },
     {
@@ -306,7 +291,6 @@
       "skill": "Video context",
       "target_misconception": "Authentic video necessarily provides complete context.",
       "keyed_answer_id": "a4",
-      "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-16-e1": 3,
         "case-16-e2": 3,
@@ -317,8 +301,8 @@
         "decision": 4,
         "evidence_quality": 3,
         "reasoning": 2,
-        "efficiency": 1,
-        "confidence_points": 0
+        "confidence_points": 0,
+        "strategy": 1
       }
     },
     {
@@ -326,7 +310,6 @@
       "skill": "Research tracing",
       "target_misconception": "One study settles a broad study-habit question.",
       "keyed_answer_id": "a1",
-      "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-17-e1": 3,
         "case-17-e2": 3,
@@ -337,8 +320,8 @@
         "decision": 4,
         "evidence_quality": 3,
         "reasoning": 2,
-        "efficiency": 1,
-        "confidence_points": 0
+        "confidence_points": 0,
+        "strategy": 1
       }
     },
     {
@@ -346,7 +329,6 @@
       "skill": "Health-claim evaluation",
       "target_misconception": "Any cited study validates the marketing claim.",
       "keyed_answer_id": "a2",
-      "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-18-e1": 3,
         "case-18-e2": 3,
@@ -357,8 +339,8 @@
         "decision": 4,
         "evidence_quality": 3,
         "reasoning": 2,
-        "efficiency": 1,
-        "confidence_points": 0
+        "confidence_points": 0,
+        "strategy": 1
       }
     },
     {
@@ -366,7 +348,6 @@
       "skill": "Contextual authority",
       "target_misconception": "Platform determines credibility.",
       "keyed_answer_id": "a3",
-      "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-19-e1": 3,
         "case-19-e2": 3,
@@ -377,8 +358,8 @@
         "decision": 4,
         "evidence_quality": 3,
         "reasoning": 2,
-        "efficiency": 1,
-        "confidence_points": 0
+        "confidence_points": 0,
+        "strategy": 1
       }
     },
     {
@@ -386,7 +367,6 @@
       "skill": "Headline-study comparison",
       "target_misconception": "A health association automatically supports behavioral advice.",
       "keyed_answer_id": "a4",
-      "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-20-e1": 3,
         "case-20-e2": 3,
@@ -397,8 +377,8 @@
         "decision": 4,
         "evidence_quality": 3,
         "reasoning": 2,
-        "efficiency": 1,
-        "confidence_points": 0
+        "confidence_points": 0,
+        "strategy": 1
       }
     },
     {
@@ -406,7 +386,6 @@
       "skill": "Scam verification",
       "target_misconception": "Personalized scholarship messages are safe if the award exceeds the fee.",
       "keyed_answer_id": "a1",
-      "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-21-e1": 2,
         "case-21-e2": 3,
@@ -417,8 +396,8 @@
         "decision": 4,
         "evidence_quality": 3,
         "reasoning": 2,
-        "efficiency": 1,
-        "confidence_points": 0
+        "confidence_points": 0,
+        "strategy": 1
       }
     },
     {
@@ -426,7 +405,6 @@
       "skill": "Phishing verification",
       "target_misconception": "Polished branding makes an urgent account message trustworthy.",
       "keyed_answer_id": "a2",
-      "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-22-e1": 3,
         "case-22-e2": 3,
@@ -437,8 +415,8 @@
         "decision": 4,
         "evidence_quality": 3,
         "reasoning": 2,
-        "efficiency": 1,
-        "confidence_points": 0
+        "confidence_points": 0,
+        "strategy": 1
       }
     },
     {
@@ -446,7 +424,6 @@
       "skill": "Opportunity verification",
       "target_misconception": "Unsolicited recruiting is always fraudulent.",
       "keyed_answer_id": "a3",
-      "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-23-e1": 2,
         "case-23-e2": 3,
@@ -457,8 +434,8 @@
         "decision": 4,
         "evidence_quality": 3,
         "reasoning": 2,
-        "efficiency": 1,
-        "confidence_points": 0
+        "confidence_points": 0,
+        "strategy": 1
       }
     },
     {
@@ -466,7 +443,6 @@
       "skill": "Job-scam investigation",
       "target_misconception": "A real company identity validates the recruiter using its name.",
       "keyed_answer_id": "a4",
-      "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-24-e1": 3,
         "case-24-e2": 3,
@@ -477,8 +453,8 @@
         "decision": 4,
         "evidence_quality": 3,
         "reasoning": 2,
-        "efficiency": 1,
-        "confidence_points": 0
+        "confidence_points": 0,
+        "strategy": 1
       }
     },
     {
@@ -486,7 +462,6 @@
       "skill": "Application-channel verification",
       "target_misconception": "A copied real job description makes a listing legitimate.",
       "keyed_answer_id": "a1",
-      "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-25-e1": 3,
         "case-25-e2": 3,
@@ -497,8 +472,8 @@
         "decision": 4,
         "evidence_quality": 3,
         "reasoning": 2,
-        "efficiency": 1,
-        "confidence_points": 0
+        "confidence_points": 0,
+        "strategy": 1
       }
     },
     {
@@ -506,7 +481,6 @@
       "skill": "Updating conclusions",
       "target_misconception": "Changing your mind after new evidence means the original investigation failed.",
       "keyed_answer_id": "a2",
-      "ideal_high_value_checks": 3,
       "evidence_values": {
         "case-26-e1": 2,
         "case-26-e2": 2,
@@ -517,8 +491,8 @@
         "decision": 4,
         "evidence_quality": 3,
         "reasoning": 2,
-        "efficiency": 1,
-        "confidence_points": 0
+        "confidence_points": 0,
+        "strategy": 1
       }
     },
     {
@@ -526,7 +500,6 @@
       "skill": "Positive verification",
       "target_misconception": "Screenshots should always be rejected.",
       "keyed_answer_id": "a3",
-      "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-27-e1": 3,
         "case-27-e2": 3,
@@ -537,8 +510,8 @@
         "decision": 4,
         "evidence_quality": 3,
         "reasoning": 2,
-        "efficiency": 1,
-        "confidence_points": 0
+        "confidence_points": 0,
+        "strategy": 1
       }
     },
     {
@@ -546,7 +519,6 @@
       "skill": "Currency",
       "target_misconception": "Official sources remain equally suitable regardless of date.",
       "keyed_answer_id": "a4",
-      "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-28-e1": 3,
         "case-28-e2": 3,
@@ -557,8 +529,8 @@
         "decision": 4,
         "evidence_quality": 3,
         "reasoning": 2,
-        "efficiency": 1,
-        "confidence_points": 0
+        "confidence_points": 0,
+        "strategy": 1
       }
     },
     {
@@ -566,7 +538,6 @@
       "skill": "Data visualization",
       "target_misconception": "A truncated axis is automatically deceptive, or a real increase justifies any visual emphasis.",
       "keyed_answer_id": "a1",
-      "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-29-e1": 3,
         "case-29-e2": 3,
@@ -577,8 +548,8 @@
         "decision": 4,
         "evidence_quality": 3,
         "reasoning": 2,
-        "efficiency": 1,
-        "confidence_points": 0
+        "confidence_points": 0,
+        "strategy": 1
       }
     },
     {
@@ -586,7 +557,6 @@
       "skill": "Polling literacy",
       "target_misconception": "Large populations always require enormous samples.",
       "keyed_answer_id": "a2",
-      "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-30-e1": 3,
         "case-30-e2": 3,
@@ -597,8 +567,8 @@
         "decision": 4,
         "evidence_quality": 3,
         "reasoning": 2,
-        "efficiency": 1,
-        "confidence_points": 0
+        "confidence_points": 0,
+        "strategy": 1
       }
     },
     {
@@ -606,7 +576,6 @@
       "skill": "Breaking-news uncertainty",
       "target_misconception": "Breaking information must immediately resolve into a cause.",
       "keyed_answer_id": "a3",
-      "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-31-e1": 3,
         "case-31-e2": 0,
@@ -617,8 +586,8 @@
         "decision": 4,
         "evidence_quality": 3,
         "reasoning": 2,
-        "efficiency": 1,
-        "confidence_points": 0
+        "confidence_points": 0,
+        "strategy": 1
       }
     },
     {
@@ -626,7 +595,6 @@
       "skill": "News-source independence",
       "target_misconception": "Publication count equals independent confirmation.",
       "keyed_answer_id": "a4",
-      "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-32-e1": 3,
         "case-32-e2": 3,
@@ -637,8 +605,8 @@
         "decision": 4,
         "evidence_quality": 3,
         "reasoning": 2,
-        "efficiency": 1,
-        "confidence_points": 0
+        "confidence_points": 0,
+        "strategy": 1
       }
     },
     {
@@ -646,7 +614,6 @@
       "skill": "Cross-language verification",
       "target_misconception": "Cultural/family channels are the credibility problem.",
       "keyed_answer_id": "a1",
-      "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-33-e1": 3,
         "case-33-e2": 3,
@@ -657,8 +624,8 @@
         "decision": 4,
         "evidence_quality": 3,
         "reasoning": 2,
-        "efficiency": 1,
-        "confidence_points": 0
+        "confidence_points": 0,
+        "strategy": 1
       }
     },
     {
@@ -666,19 +633,18 @@
       "skill": "Translation + provenance",
       "target_misconception": "Real screenshot equals accurate translated claim.",
       "keyed_answer_id": "a2",
-      "ideal_high_value_checks": 2,
       "evidence_values": {
-        "case-34-e1": 3,
+        "case-34-e1": 2,
         "case-34-e2": 3,
-        "case-34-e3": 2,
+        "case-34-e3": 3,
         "case-34-e4": 3
       },
       "scoring": {
         "decision": 4,
         "evidence_quality": 3,
         "reasoning": 2,
-        "efficiency": 1,
-        "confidence_points": 0
+        "confidence_points": 0,
+        "strategy": 1
       }
     },
     {
@@ -686,7 +652,6 @@
       "skill": "AI citation tracing",
       "target_misconception": "Real citation + real number guarantees accurate attribution.",
       "keyed_answer_id": "a3",
-      "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-35-e1": 2,
         "case-35-e2": 3,
@@ -697,8 +662,8 @@
         "decision": 4,
         "evidence_quality": 3,
         "reasoning": 2,
-        "efficiency": 1,
-        "confidence_points": 0
+        "confidence_points": 0,
+        "strategy": 1
       }
     },
     {
@@ -706,7 +671,6 @@
       "skill": "Synthesis",
       "target_misconception": "The goal is merely to label the viral post true or false.",
       "keyed_answer_id": "a4",
-      "ideal_high_value_checks": 3,
       "evidence_values": {
         "case-36-e1": 3,
         "case-36-e2": 3,
@@ -717,8 +681,8 @@
         "decision": 4,
         "evidence_quality": 3,
         "reasoning": 2,
-        "efficiency": 1,
-        "confidence_points": 0
+        "confidence_points": 0,
+        "strategy": 1
       }
     }
   ]

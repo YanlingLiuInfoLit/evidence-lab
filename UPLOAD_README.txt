@@ -1,17 +1,15 @@
-CASE 14 CLARITY FIX
+EVIDENCE LAB 1.0 RELEASE CANDIDATE - CONSOLIDATED PATCH
 
-Upload all files to repository root:
-- play.html
-- data/cases.public.json
-- assets/case14-crop.png
-- assets/case14-wide.png
-- CASE14_CLARITY_AUDIT.json
+Upload EVERYTHING in this patch to the repository root.
 
-Commit:
-Clarify Case 14 viral crop investigation
+Major changes:
+- Replaces Practice/Capstone with 2/5/10/20-minute challenges + individual cases.
+- Adds persistent browser-local Investigation Log and student export/submission tools.
+- Replaces Efficiency with Investigation Strategy.
+- Makes evidence reasoning multi-select and confidence unscored.
+- Applies creator QA revisions to Cases 4, 6, 16, 17, 18, 24, 26, 29, 31, 33, 34, and 36.
+- Improves Cases navigation and completed-attempt indicators.
+- Updates Teaching Guide, lesson plans, README, educator page, About/navigation.
 
-Expected behavior:
-1. Starter shows the viral claim and cropped image only.
-2. Open the full frame reveals the wider image.
-3. The wider-image caption does not tell students the conclusion.
-4. Practice/Capstone scoring fix remains intact.
+Suggested commit:
+Finalize Evidence Lab 1.0 release candidate

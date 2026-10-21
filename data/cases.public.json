@@ -287,7 +287,7 @@
         }
       ],
       "consequence": "Omar marks the fact as unresolved instead of building the club material around it.",
-      "transfer_principle": "“Not enough evidence” is an evidence-based conclusion when the record genuinely remains unresolved.",
+      "transfer_principle": "Sometimes the evidence is not strong enough to decide. “I can’t verify this yet” is a valid conclusion when reliable sources do not resolve the question.",
       "evidence_status": "SIMULATION",
       "accessibility_requirement": "All AI and search evidence is text.",
       "visual_asset": null,
@@ -432,8 +432,8 @@
           "text": "Treat the multiple student reports as provisional confirmation while continuing to search."
         }
       ],
-      "consequence": "You do not add another confident repetition to the rumor network.",
-      "transfer_principle": "Trace rumors upstream and distinguish “unverified” from “false.”",
+      "consequence": "You avoid passing along an unverified claim as fact. Repeating a rumor can make it seem better supported even when no new evidence has been added.",
+      "transfer_principle": "Repetition is not independent confirmation. Trace repeated claims back to their original source before treating them as corroborated.",
       "evidence_status": "SIMULATION",
       "accessibility_requirement": "The source chain is available in text and does not rely on a diagram.",
       "visual_asset": null,
@@ -1139,7 +1139,7 @@
         },
         {
           "answer_id": "a2",
-          "text": "The earlier interruption proves every later reaction was justified."
+          "text": "The earlier interruption explains why Student A was frustrated, so every later reaction should be treated as justified."
         },
         {
           "answer_id": "a3",
@@ -1151,7 +1151,7 @@
         }
       ],
       "consequence": "The group stops repeating the “for no reason” caption as established.",
-      "transfer_principle": "Ask what happened immediately before and after a viral excerpt.",
+      "transfer_principle": "Context can change an interpretation without proving the opposite extreme. Check what happened before and after a viral excerpt.",
       "evidence_status": "HYBRID",
       "accessibility_requirement": "Provide synchronized transcript/timeline as an equivalent evidence path.",
       "visual_asset": "case16.jpg",
@@ -1202,7 +1202,7 @@
       "answers": [
         {
           "answer_id": "a1",
-          "text": "The study supports a narrower claim about the measured task and conditions, not a general rule that music improves studying."
+          "text": "The study may show that music did not reduce performance on this task under these conditions. That is not evidence that music improves studying."
         },
         {
           "answer_id": "a2",
@@ -1217,8 +1217,8 @@
           "text": "The study and headline point in the same direction, so the headline is acceptable shorthand for the finding."
         }
       ],
-      "consequence": "Sofia keeps her playlist preference but stops presenting it as settled science for everyone.",
-      "transfer_principle": "A real study can be relevant without supporting a universal viral claim.",
+      "consequence": "Sofia keeps her playlist preference but stops treating “not worse on this task” as proof that music improves studying.",
+      "transfer_principle": "No observed harm is not the same as demonstrated benefit. Match the claim to what the study actually measured.",
       "evidence_status": "HYBRID",
       "accessibility_requirement": "Study outcomes and comparison conditions are available in text/table form.",
       "visual_asset": null,
@@ -1243,7 +1243,7 @@
         },
         {
           "speaker": "Priya",
-          "text": "also... #partner"
+          "text": "wait — it says #partner. were they paid to promote this?"
         }
       ],
       "starter_html": "<strong>Creator claim:</strong><br>“This changed my focus completely — and there's a STUDY proving it works.”",
@@ -1695,27 +1695,27 @@
           "student_html": "The company itself is real."
         }
       ],
-      "question": "What should Wei do?",
+      "question": "What should Wei do with this job offer?",
       "answers": [
         {
           "answer_id": "a1",
-          "text": "The company is real, so continue."
+          "text": "The company is real, so continue with the recruiter."
         },
         {
           "answer_id": "a2",
-          "text": "Deposit the check but wait for it to clear before buying equipment."
+          "text": "Continue the conversation, but wait for the recruiter to explain why the position is not listed before verifying independently."
         },
         {
           "answer_id": "a3",
-          "text": "Telegram interviews are unusual, so the job must be fake even without other evidence."
+          "text": "Treat the job as definitely fake only because the interview platform is unusual."
         },
         {
           "answer_id": "a4",
-          "text": "Stop the process and do not deposit or send money based on the recruiter instructions."
+          "text": "Stop dealing with this recruiter and use the company’s official careers site or contact information if Wei still wants to pursue the opportunity."
         }
       ],
-      "consequence": "Wei stops before depositing a fake-check-style payment or sending money.",
-      "transfer_principle": "A real company name does not make the person contacting you an employee of that company.",
+      "consequence": "Wei stops relying on the recruiter’s channel and verifies the opportunity through the company’s independently located official site.",
+      "transfer_principle": "A real company can be impersonated. Verify opportunities through an independent official channel.",
       "evidence_status": "SIMULATION",
       "accessibility_requirement": "All job and company-verification evidence is text.",
       "visual_asset": null,
@@ -1814,7 +1814,7 @@
           "text": "someone in the other section told me"
         }
       ],
-      "starter_html": "<strong>Current evidence state:</strong><br>Group-chat claim only. The game models an investigation where the conclusion can change as new evidence arrives.",
+      "starter_html": "<div class=\"artifact-ui\"><div class=\"artifact-top\"><span>💬 GROUP CHAT</span><b>Unverified course claim</b></div><div class=\"artifact-body\">“Professor moved tomorrow’s exam online.”</div><div class=artifact-meta>Source: someone in another section</div></div>",
       "evidence": [
         {
           "evidence_id": "case-26-e1",
@@ -1837,27 +1837,27 @@
           "student_html": "New message from professor: “The exam remains in our regular classroom. No change has been announced.”"
         }
       ],
-      "question": "What should you conclude after the evidence currently available to you?",
+      "question": "What should the group do now?",
       "answers": [
         {
           "answer_id": "a1",
-          "text": "The student reports make the online-exam claim likely enough to act on while waiting for the professor's message."
+          "text": "Follow the student reports because they appeared before the professor’s message."
         },
         {
           "answer_id": "a2",
-          "text": "Treat the conclusion as provisional until the authoritative course message appears, then update the decision based on that new evidence."
+          "text": "Follow the most recent official course announcement, even though it conflicts with what the group heard earlier."
         },
         {
           "answer_id": "a3",
-          "text": "The absence of an immediate professor announcement makes the rumor less likely, so students should plan for the original exam format."
+          "text": "Treat the situation as unresolved even after the professor provides a clear official update."
         },
         {
           "answer_id": "a4",
-          "text": "Because the reports conflict, the best approach is to avoid making any conclusion even after an authoritative course update appears."
+          "text": "Go with whichever version most students in the group believe."
         }
       ],
       "consequence": "The group changes plans based on the new authoritative evidence.",
-      "transfer_principle": "Good investigators update conclusions when the evidence changes.",
+      "transfer_principle": "When new, stronger evidence appears, update your conclusion. Good verification follows the best evidence currently available.",
       "evidence_status": "SIMULATION — FICTIONAL COURSE",
       "accessibility_requirement": "All staged evidence is textual; production version should reveal the final professor message after earlier checks.",
       "visual_asset": null,
@@ -2020,19 +2020,19 @@
         },
         {
           "speaker": "Priya",
-          "text": "the chart definitely looks insane"
+          "text": "that chart makes the jump look huge"
         },
         {
           "speaker": "Wei",
           "text": "what are the actual numbers?"
         }
       ],
-      "starter_html": "<figure class=\"artifact\" role=\"img\" aria-label=\"Misleading bar chart comparing 100 parking complaints in 2025 with 103 in 2026 on a y-axis beginning at 96, making the small increase look dramatic.\"><div class=\"artifact-kicker\">SOCIAL CHART</div><h4 style=\"margin:.3rem 0 1rem\">Parking complaints SKYROCKET 300%!</h4><div style=\"display:grid;grid-template-columns:42px 1fr;gap:8px;max-width:520px\"><div style=\"display:flex;flex-direction:column;justify-content:space-between;height:220px;text-align:right;font-size:.78rem;color:#60708a\"><span>104</span><span>102</span><span>100</span><span>98</span><span>96</span></div><div style=\"height:220px;border-left:2px solid #8994a8;border-bottom:2px solid #8994a8;display:flex;align-items:flex-end;justify-content:space-around;padding:0 25px\"><div style=\"text-align:center\"><b>100</b><div style=\"width:72px;height:88px;background:#667bd8;border-radius:6px 6px 0 0\"></div><span>2025</span></div><div style=\"text-align:center\"><b>103</b><div style=\"width:72px;height:192px;background:#667bd8;border-radius:6px 6px 0 0\"></div><span>2026</span></div></div></div><figcaption class=\"sr\">The y-axis begins at 96 rather than zero.</figcaption></figure>",
+      "starter_html": "<figure class=\"artifact artifact-chart\" role=\"img\" aria-label=\"Bar chart titled Parking complaints SKYROCKET with a truncated vertical axis from 96 to 104. Exact bar values are not printed on the starter chart.\"><div class=\"artifact-kicker\">SOCIAL CHART</div><h4 style=\"margin:.3rem 0 1rem\">Parking complaints SKYROCKET!</h4><div style=\"display:grid;grid-template-columns:42px 1fr;gap:8px;max-width:520px\"><div style=\"display:flex;flex-direction:column;justify-content:space-between;height:220px;text-align:right;font-size:.78rem;color:#60708a\"><span>104</span><span>102</span><span>100</span><span>98</span><span>96</span></div><div style=\"height:220px;border-left:2px solid #8994a8;border-bottom:2px solid #8994a8;display:flex;align-items:flex-end;justify-content:space-around;padding:0 25px\"><div style=\"text-align:center\"><div style=\"width:72px;height:88px;background:#667bd8;border-radius:6px 6px 0 0\"></div><span>2025</span></div><div style=\"text-align:center\"><div style=\"width:72px;height:192px;background:#667bd8;border-radius:6px 6px 0 0\"></div><span>2026</span></div></div></div></figure>",
       "evidence": [
         {
           "evidence_id": "case-29-e1",
           "label": "Open the data table",
-          "student_html": "<div class=\"artifact-ui\"><div class=\"artifact-top\"><span>📋 DATA TABLE</span><b>Parking complaints</b></div><div class=\"artifact-body\">2025: <b>100</b><br>2026: <b>103</b></div></div>"
+          "student_html": "<div class=\"artifact-ui\"><div class=\"artifact-top\"><span>📋 DATA TABLE</span><b>Parking complaints</b></div><div class=\"artifact-body\"><table><tr><th>Year</th><th>Complaints</th><th>Change</th></tr><tr><td>2023</td><td>98</td><td>—</td></tr><tr><td>2024</td><td>101</td><td>+3</td></tr><tr><td>2025</td><td>100</td><td>−1</td></tr><tr><td>2026</td><td>103</td><td>+3</td></tr></table></div></div>"
         },
         {
           "evidence_id": "case-29-e2",
@@ -2042,7 +2042,7 @@
         {
           "evidence_id": "case-29-e3",
           "label": "Calculate the change",
-          "student_html": "<div class=\"artifact-ui\"><div class=\"artifact-top\"><span>🧮 CHANGE</span><b>Underlying values</b></div><div class=\"artifact-body\">Increase: <b>3 complaints</b> = approximately <b>3%</b>.</div></div>"
+          "student_html": "<div class=\"artifact-ui\"><div class=\"artifact-top\"><span>🧮 CHANGE</span><b>2025 → 2026</b></div><div class=\"artifact-body\">Increase: <b>3 complaints</b> = <b>3%</b>.</div></div>"
         },
         {
           "evidence_id": "case-29-e4",
@@ -2070,7 +2070,7 @@
         }
       ],
       "consequence": "The group distinguishes the numerical change from the chart's rhetorical effect.",
-      "transfer_principle": "Verify the numbers and the visual encoding separately.",
+      "transfer_principle": "Check the underlying numbers and the visual encoding separately. A real increase can still be visually exaggerated.",
       "evidence_status": "SIMULATION",
       "accessibility_requirement": "Provide the chart plus an accessible data table and axis description.",
       "visual_asset": null,
@@ -2166,7 +2166,7 @@
         },
         {
           "speaker": "Wei",
-          "text": "another account says transformer"
+          "text": "another account says it was electrical equipment"
         },
         {
           "speaker": "Priya",
@@ -2188,7 +2188,7 @@
         {
           "evidence_id": "case-31-e3",
           "label": "Check another account",
-          "student_html": "Claims a transformer exploded but provides no direct evidence."
+          "student_html": "Claims the explosion came from electrical equipment, but provides no evidence for that explanation."
         },
         {
           "evidence_id": "case-31-e4",
@@ -2204,7 +2204,7 @@
         },
         {
           "answer_id": "a2",
-          "text": "It was a transformer because two accounts mention electricity."
+          "text": "It was electrical equipment because another account says so."
         },
         {
           "answer_id": "a3",
@@ -2338,23 +2338,23 @@
       "answers": [
         {
           "answer_id": "a1",
-          "text": "Compare the translation with the original policy language and preserve differences in scope or obligation."
+          "text": "Check the official government notice and compare it with the translation. Explain who the policy actually applies to and whether payment is required or only may be required in certain circumstances."
         },
         {
           "answer_id": "a2",
-          "text": "The family translation is usable if several bilingual relatives interpret the message the same way."
+          "text": "Use the family translation if several people in the chat interpret it the same way."
         },
         {
           "answer_id": "a3",
-          "text": "The official source is more important than translation precision, so an approximate English version is sufficient once provenance is confirmed."
+          "text": "Use the official source but ignore translation precision once you know the notice is authentic."
         },
         {
           "answer_id": "a4",
-          "text": "A machine translation plus the original source is enough to treat the strongest English wording as accurate."
+          "text": "Treat the strongest English wording as accurate because the message links to a real government notice."
         }
       ],
       "consequence": "Wei sends back a narrower explanation and the original notice instead of shaming the sender.",
-      "transfer_principle": "Translation is an information transformation that may itself need verification.",
+      "transfer_principle": "Verify both provenance and meaning. An authoritative source can still be misrepresented by an inaccurate translation or summary.",
       "evidence_status": "SIMULATION",
       "accessibility_requirement": "Original-language artifact must include an accessible English translation and translation comparison; language knowledge is not required.",
       "visual_asset": null,
@@ -2363,69 +2363,69 @@
     {
       "case_id": "case-34",
       "bank_number": 34,
-      "title": "The Screenshot Is Real—The Translation Isn't",
+      "title": "The Quote Is Real—But What Came Before?",
       "level": "synthesis",
       "channel": "🌐 International News",
       "goal": "TRANSLATE IT?",
-      "setup": "A real foreign-language news screenshot circulates with a dramatic English caption.",
+      "setup": "A real quotation from a campus interview circulates without the sentences immediately before and after it.",
       "scene": [
         {
           "speaker": "Min-jun",
-          "text": "the screenshot itself is real"
+          "text": "the quote is real — I found it in the interview"
         },
         {
           "speaker": "Sofia",
-          "text": "so Japan banned smartphones for children?"
+          "text": "then the viral post is accurate?"
         },
         {
           "speaker": "Min-jun",
-          "text": "that's not what the headline says"
+          "text": "not necessarily. what was the speaker responding to?"
         }
       ],
-      "starter_html": "<div class=\"artifact-ui\"><div class=\"artifact-top\"><span>🌐 INTERNATIONAL NEWS</span><b>Viral English caption</b></div><div class=\"artifact-body\"><b>JAPAN BANS SMARTPHONES FOR CHILDREN</b></div><div class=artifact-meta>Screenshot comes from a real foreign-language article.</div></div>",
+      "starter_html": "<div class=\"artifact-ui\"><div class=\"artifact-top\"><span>📱 VIRAL QUOTE CARD</span><b>Authentic words, clipped context</b></div><div class=\"artifact-body\"><b>“This policy is a terrible idea.”</b></div><div class=artifact-meta>Quote appears in a real recorded interview.</div></div>",
       "evidence": [
         {
           "evidence_id": "case-34-e1",
-          "label": "Verify screenshot provenance",
-          "student_html": "The screenshot comes from a real news article."
+          "label": "Verify the quotation",
+          "student_html": "The speaker really says, “This policy is a terrible idea.” The words are authentic."
         },
         {
           "evidence_id": "case-34-e2",
-          "label": "Read a careful translation",
-          "student_html": "<div class=\"artifact-ui\"><div class=\"artifact-top\"><span>🈯 CAREFUL TRANSLATION</span><b>Original headline meaning</b></div><div class=\"artifact-body\">A city proposes/recommends daily smartphone-use guidelines for young people.</div><div class=artifact-meta>Not a national ban</div></div>"
+          "label": "Read what came before",
+          "student_html": "The interviewer had just described a hypothetical version of the policy that removes all hardship exceptions."
         },
         {
           "evidence_id": "case-34-e3",
-          "label": "Compare machine translation",
-          "student_html": "One automated rendering uses stronger restriction language than the source context supports."
+          "label": "Read what came after",
+          "student_html": "The speaker immediately adds that a narrower version with exceptions could be reasonable."
         },
         {
           "evidence_id": "case-34-e4",
-          "label": "Check geographic scope",
-          "student_html": "The underlying item concerns a local jurisdiction, not all of Japan."
+          "label": "Open the full interview",
+          "student_html": "Across the full exchange, the speaker criticizes the hypothetical no-exceptions version, not every possible version of the policy."
         }
       ],
-      "question": "What is the strongest conclusion?",
+      "question": "What is the strongest conclusion about the viral quote?",
       "answers": [
         {
           "answer_id": "a1",
-          "text": "A real screenshot makes the English caption reliable."
+          "text": "Because the words are authentic, the viral interpretation is reliable."
         },
         {
           "answer_id": "a2",
-          "text": "The source is authentic, but the viral English caption mistranslates and broadens it."
+          "text": "The quotation is authentic, but removing the surrounding exchange changes what position it appears to represent."
         },
         {
           "answer_id": "a3",
-          "text": "Japan nationally banned smartphones for children."
+          "text": "The speaker opposes every version of the policy because they called one version terrible."
         },
         {
           "answer_id": "a4",
-          "text": "Foreign-language reporting cannot be verified by students who do not speak the language."
+          "text": "Authentic quotations should not be used as evidence unless the entire interview is reproduced."
         }
       ],
-      "consequence": "The group corrects the English caption while preserving the real source.",
-      "transfer_principle": "Authentic source + inaccurate translation/context can still produce misleading information.",
+      "consequence": "The group keeps the authentic quotation but restores the surrounding context before describing the speaker’s position.",
+      "transfer_principle": "A quotation can be word-for-word accurate and still mislead when the surrounding context changes its meaning.",
       "evidence_status": "SIMULATION",
       "accessibility_requirement": "Provide original text, human-readable English translation, scope notes, and no language-dependent scoring.",
       "visual_asset": null,
@@ -2524,7 +2524,7 @@
           "text": "and what does “twice as much” mean?"
         }
       ],
-      "starter_html": "<section class=\"artifact\" aria-label=\"Viral post claiming an AI tutor beat human professors and made universities obsolete\"><div class=\"artifact-kicker\">VIRAL POST · CAPSTONE</div><div style=\"background:#eef2ff;border-radius:12px;padding:16px\"><h4 style=\"font-size:1.35rem;margin:.2rem 0\">AI TUTOR BEATS HUMAN PROFESSORS 🤯</h4><p>Students taught by AI learned <b>TWICE AS MUCH</b> in less time.</p><p>“Universities are officially obsolete.”</p></div><p class=\"muted\">Trace the claim back through the evidence chain before deciding what the study actually warrants.</p></section>",
+      "starter_html": "<section class=\"artifact\" aria-label=\"Viral post claiming an AI tutor beat human professors and made universities obsolete\"><div class=\"artifact-kicker\">VIRAL POST</div><div style=\"background:#eef2ff;border-radius:12px;padding:16px\"><h4 style=\"font-size:1.35rem;margin:.2rem 0\">AI TUTOR BEATS HUMAN PROFESSORS 🤯</h4><p>Students taught by AI learned <b>TWICE AS MUCH</b> in less time.</p><p>“Universities are officially obsolete.”</p></div><p class=\"muted\">Trace the claim back through the evidence chain before deciding what the study actually warrants.</p></section>",
       "evidence": [
         {
           "evidence_id": "case-36-e1",
@@ -2569,7 +2569,7 @@
       "consequence": "You give your roommate a bounded explanation rather than repeating either the hype or an equally sweeping dismissal.",
       "transfer_principle": "Advanced information literacy means constructing the strongest claim the evidence actually warrants.",
       "evidence_status": "HYBRID TEMPLATE",
-      "accessibility_requirement": "All study design, outcome, and source-chain information is text-readable; this case functions as the advanced capstone.",
+      "accessibility_requirement": "All study design, outcome, and source-chain information is text-readable.",
       "visual_asset": null,
       "stage_behavior": null
     }
