@@ -1,0 +1,85 @@
+{
+  "status": "PASS",
+  "cases_checked": 13,
+  "checks": [
+    {
+      "case": 13,
+      "one_artifact": true,
+      "accessible": true,
+      "case29_visible_giveaway": false
+    },
+    {
+      "case": 14,
+      "one_artifact": true,
+      "accessible": true,
+      "case29_visible_giveaway": false
+    },
+    {
+      "case": 15,
+      "one_artifact": true,
+      "accessible": true,
+      "case29_visible_giveaway": false
+    },
+    {
+      "case": 16,
+      "one_artifact": true,
+      "accessible": true,
+      "case29_visible_giveaway": false
+    },
+    {
+      "case": 22,
+      "one_artifact": true,
+      "accessible": true,
+      "case29_visible_giveaway": false
+    },
+    {
+      "case": 23,
+      "one_artifact": true,
+      "accessible": true,
+      "case29_visible_giveaway": false
+    },
+    {
+      "case": 27,
+      "one_artifact": true,
+      "accessible": true,
+      "case29_visible_giveaway": false
+    },
+    {
+      "case": 29,
+      "one_artifact": true,
+      "accessible": true,
+      "case29_visible_giveaway": false
+    },
+    {
+      "case": 30,
+      "one_artifact": true,
+      "accessible": true,
+      "case29_visible_giveaway": false
+    },
+    {
+      "case": 31,
+      "one_artifact": true,
+      "accessible": true,
+      "case29_visible_giveaway": false
+    },
+    {
+      "case": 33,
+      "one_artifact": true,
+      "accessible": true,
+      "case29_visible_giveaway": false
+    },
+    {
+      "case": 35,
+      "one_artifact": true,
+      "accessible": true,
+      "case29_visible_giveaway": false
+    },
+    {
+      "case": 36,
+      "one_artifact": true,
+      "accessible": true,
+      "case29_visible_giveaway": false
+    }
+  ],
+  "implementation": "Each audited case starter_html is replaced by exactly one self-contained artifact. Critical layout uses inline CSS; multimodal.css supplies only shared shell styling."
+}

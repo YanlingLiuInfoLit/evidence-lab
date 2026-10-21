@@ -1,10 +1,10 @@
-Upload all files/folders in this patch to the repository root:
+Upload all files/folders to the repository root:
 - play.html
 - data/cases.public.json
 - assets/multimodal.css
-- MODALITY_AUDIT.json
+- MODALITY_RENDER_AUDIT.json
 
-Commit message:
-Add authentic multimodal evidence artifacts
+Commit:
+Fix multimodal artifact rendering and remove duplicates
 
-After GitHub Pages rebuilds, test Cases 13, 14, 15, 16, 22, 23, 27, 29, 30, 31, 33, 35, and 36.
+After deployment hard-refresh and test Case 29 first. It should show one actual bar chart, not flattened numbers and not a duplicate text chart.
