@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "checks": {
+    "blank_placeholder": true,
+    "no_75_selected": true,
+    "required_select": true,
+    "validation_message": true,
+    "confidence_unscored_text": true,
+    "strategy_preserved": true,
+    "investigation_log_preserved": true
+  }
+}
