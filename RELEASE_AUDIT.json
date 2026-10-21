@@ -1,0 +1,30 @@
+{
+  "status": "PASS",
+  "cases_checked": 36,
+  "key_position_distribution": {
+    "a1": 9,
+    "a2": 9,
+    "a3": 9,
+    "a4": 9
+  },
+  "cue_heavy_cases_rewritten": [
+    14,
+    17,
+    18,
+    26,
+    33
+  ],
+  "blockers": [],
+  "checks": [
+    "36 public/protected cases aligned",
+    "4 unique answers per case",
+    "keyed answer exists",
+    "evidence values cover evidence IDs",
+    "at least one 3/3 artifact per case",
+    "consequence/transfer present",
+    "accessibility/disclosure present",
+    "institution-neutral canonical data",
+    "correct-answer positions balanced 9/9/9/9",
+    "no case has 2+ extreme distractors under release heuristic"
+  ]
+}

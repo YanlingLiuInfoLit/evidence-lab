@@ -125,11 +125,11 @@
       "answers": [
         {
           "answer_id": "a1",
-          "text": "Use the study, but rewrite the sentence to match what it actually studied."
+          "text": "If the article is real, the sentence is fine."
         },
         {
           "answer_id": "a2",
-          "text": "If the article is real, the sentence is fine."
+          "text": "Use the study, but rewrite the sentence to match what it actually studied."
         },
         {
           "answer_id": "a3",
@@ -196,15 +196,15 @@
       "answers": [
         {
           "answer_id": "a1",
-          "text": "That advice checks out for this research need."
-        },
-        {
-          "answer_id": "a2",
           "text": "Use the advice, but only because two different AI systems agree."
         },
         {
-          "answer_id": "a3",
+          "answer_id": "a2",
           "text": "Start with library catalog instead; discovery tools are too broad for college research."
+        },
+        {
+          "answer_id": "a3",
+          "text": "That advice checks out for this research need."
         },
         {
           "answer_id": "a4",
@@ -271,19 +271,19 @@
       "answers": [
         {
           "answer_id": "a1",
-          "text": "I still can't verify it. We need better evidence."
-        },
-        {
-          "answer_id": "a2",
           "text": "The repeated claim is probably usable if we label it as uncertain."
         },
         {
-          "answer_id": "a3",
+          "answer_id": "a2",
           "text": "The failure to locate an authoritative record makes the claim more likely false than true."
         },
         {
-          "answer_id": "a4",
+          "answer_id": "a3",
           "text": "For a low-stakes club project, the AI's confidence is enough to proceed."
+        },
+        {
+          "answer_id": "a4",
+          "text": "I still can't verify it. We need better evidence."
         }
       ],
       "consequence": "Omar marks the fact as unresolved instead of building the club material around it.",
@@ -417,11 +417,11 @@
       "answers": [
         {
           "answer_id": "a1",
-          "text": "I can't verify this as a campus policy yet, so don't treat it as established."
+          "text": "Tell people the rumor is probably false because no official announcement appears."
         },
         {
           "answer_id": "a2",
-          "text": "Tell people the rumor is probably false because no official announcement appears."
+          "text": "I can't verify this as a campus policy yet, so don't treat it as established."
         },
         {
           "answer_id": "a3",
@@ -492,15 +492,15 @@
       "answers": [
         {
           "answer_id": "a1",
-          "text": "These appearances trace back to the same information chain, so they are not independent confirmation."
-        },
-        {
-          "answer_id": "a2",
           "text": "The number of platforms makes the claim more credible even if some sources overlap."
         },
         {
-          "answer_id": "a3",
+          "answer_id": "a2",
           "text": "The shared screenshot is the original source, so tracing can stop there."
+        },
+        {
+          "answer_id": "a3",
+          "text": "These appearances trace back to the same information chain, so they are not independent confirmation."
         },
         {
           "answer_id": "a4",
@@ -563,19 +563,19 @@
       "answers": [
         {
           "answer_id": "a1",
-          "text": "Fatima's right this time. The current library announcement confirms it."
-        },
-        {
-          "answer_id": "a2",
           "text": "The official announcement helps, but group-chat information should still be treated as unreliable."
         },
         {
-          "answer_id": "a3",
+          "answer_id": "a2",
           "text": "Wait until the library hours actually change before treating the announcement as confirmed."
         },
         {
-          "answer_id": "a4",
+          "answer_id": "a3",
           "text": "Use the chat claim only as a lead and avoid acting on it until another student confirms it."
+        },
+        {
+          "answer_id": "a4",
+          "text": "Fatima's right this time. The current library announcement confirms it."
         }
       ],
       "consequence": "Wei can plan study time around the verified extended hours.",
@@ -709,11 +709,11 @@
       "answers": [
         {
           "answer_id": "a1",
-          "text": "Get the actual article through another access route or interlibrary loan."
+          "text": "Have AI reconstruct the likely article from the abstract."
         },
         {
           "answer_id": "a2",
-          "text": "Have AI reconstruct the likely article from the abstract."
+          "text": "Get the actual article through another access route or interlibrary loan."
         },
         {
           "answer_id": "a3",
@@ -780,15 +780,15 @@
       "answers": [
         {
           "answer_id": "a1",
-          "text": "His credentials are real, but they don't establish expertise for this specific climate claim."
-        },
-        {
-          "answer_id": "a2",
           "text": "His scientific training gives the interpretation meaningful weight even outside his specialty."
         },
         {
-          "answer_id": "a3",
+          "answer_id": "a2",
           "text": "The mismatch in expertise makes his interpretation less useful, but the follower response may still help judge it."
+        },
+        {
+          "answer_id": "a3",
+          "text": "His credentials are real, but they don't establish expertise for this specific climate claim."
         },
         {
           "answer_id": "a4",
@@ -851,19 +851,19 @@
       "answers": [
         {
           "answer_id": "a1",
-          "text": "Sleep matters, but I wouldn't repeat that specific 40% claim as research-backed."
-        },
-        {
-          "answer_id": "a2",
           "text": "Enough people struggle at night that 40% is probably close."
         },
         {
-          "answer_id": "a3",
+          "answer_id": "a2",
           "text": "Research proves studying after 10 p.m. never works."
         },
         {
-          "answer_id": "a4",
+          "answer_id": "a3",
           "text": "The exact number doesn't matter if the general idea feels right."
+        },
+        {
+          "answer_id": "a4",
+          "text": "Sleep matters, but I wouldn't repeat that specific 40% claim as research-backed."
         }
       ],
       "consequence": "The group stops circulating the unsupported 40% statistic without dismissing the broader importance of sleep.",
@@ -993,19 +993,19 @@
       "answers": [
         {
           "answer_id": "a1",
-          "text": "The crop removes context that materially changes how the interaction can be interpreted."
+          "text": "The crop is concerning, but the close positioning still makes the original threat interpretation the most likely."
         },
         {
           "answer_id": "a2",
-          "text": "The photo proves protesters threatened the driver."
+          "text": "The wider frame changes the interpretation: the crop omitted context showing people directing traffic around the stopped vehicle."
         },
         {
           "answer_id": "a3",
-          "text": "The wider image proves nobody behaved aggressively."
+          "text": "The wider frame adds context, though the original caption remains reasonable because the driver is still surrounded."
         },
         {
           "answer_id": "a4",
-          "text": "Because the crop is real, its caption is reliable."
+          "text": "The missing context makes the image inconclusive; neither the original caption nor an alternative interpretation is supportable."
         }
       ],
       "consequence": "The group stops treating the cropped frame as a complete account of the event.",
@@ -1064,15 +1064,15 @@
       "answers": [
         {
           "answer_id": "a1",
-          "text": "The provenance history is stronger here than the conflicting detector estimates."
-        },
-        {
-          "answer_id": "a2",
           "text": "The higher detector score should carry the most weight because it directly estimates AI generation."
         },
         {
-          "answer_id": "a3",
+          "answer_id": "a2",
           "text": "The metadata and detector results together are enough to classify the image as probably authentic."
+        },
+        {
+          "answer_id": "a3",
+          "text": "The provenance history is stronger here than the conflicting detector estimates."
         },
         {
           "answer_id": "a4",
@@ -1135,19 +1135,19 @@
       "answers": [
         {
           "answer_id": "a1",
-          "text": "The clip is authentic but omits preceding context relevant to “for no reason.”"
-        },
-        {
-          "answer_id": "a2",
           "text": "The clip is fake because it was shortened."
         },
         {
-          "answer_id": "a3",
+          "answer_id": "a2",
           "text": "The earlier interruption proves every later reaction was justified."
         },
         {
-          "answer_id": "a4",
+          "answer_id": "a3",
           "text": "Nothing changes because authentic video is complete evidence."
+        },
+        {
+          "answer_id": "a4",
+          "text": "The clip is authentic but omits preceding context relevant to “for no reason.”"
         }
       ],
       "consequence": "The group stops repeating the “for no reason” caption as established.",
@@ -1202,19 +1202,19 @@
       "answers": [
         {
           "answer_id": "a1",
-          "text": "The universal post overstates mixed and context-dependent evidence."
+          "text": "The study supports a narrower claim about the measured task and conditions, not a general rule that music improves studying."
         },
         {
           "answer_id": "a2",
-          "text": "The study proves music improves academic performance."
+          "text": "The study suggests music is usually helpful for studying, although the effect probably depends on the student."
         },
         {
           "answer_id": "a3",
-          "text": "The study proves music never helps students."
+          "text": "The result is useful evidence that music improves academic performance, but only for tasks similar to those in the study."
         },
         {
           "answer_id": "a4",
-          "text": "Testimonials are enough to settle which condition is best."
+          "text": "The study and headline point in the same direction, so the headline is acceptable shorthand for the finding."
         }
       ],
       "consequence": "Sofia keeps her playlist preference but stops presenting it as settled science for everyone.",
@@ -1273,19 +1273,19 @@
       "answers": [
         {
           "answer_id": "a1",
-          "text": "The cited evidence is too limited for the creator's broad “works for focus” claim."
+          "text": "The creator's experience is useful preliminary evidence because personal results can reveal effects that trials may miss."
         },
         {
           "answer_id": "a2",
-          "text": "The study and testimonials prove the supplement works."
+          "text": "The creator's experience is not enough to establish that the supplement works; the evidence needs to match the health claim."
         },
         {
           "answer_id": "a3",
-          "text": "The sponsorship proves the creator is lying."
+          "text": "The sponsorship matters, but the recommendation is still credible if the creator appears transparent about being paid."
         },
         {
           "answer_id": "a4",
-          "text": "A small study can never provide useful evidence."
+          "text": "The creator's expertise and personal experience together make the claim reasonably trustworthy unless contrary research appears."
         }
       ],
       "consequence": "Priya does not treat the promotional claim as established by the cited study.",
@@ -1344,15 +1344,15 @@
       "answers": [
         {
           "answer_id": "a1",
-          "text": "Useful for learning about this narrow claim, though not automatically the best academic citation."
-        },
-        {
-          "answer_id": "a2",
           "text": "Unreliable because it is social media."
         },
         {
-          "answer_id": "a3",
+          "answer_id": "a2",
           "text": "Automatically the best academic citation because the creator has a PhD."
+        },
+        {
+          "answer_id": "a3",
+          "text": "Useful for learning about this narrow claim, though not automatically the best academic citation."
         },
         {
           "answer_id": "a4",
@@ -1415,19 +1415,19 @@
       "answers": [
         {
           "answer_id": "a1",
-          "text": "The study reports an association; it does not justify advice to increase coffee intake for heart protection."
-        },
-        {
-          "answer_id": "a2",
           "text": "Everyone should drink more coffee to protect their heart."
         },
         {
-          "answer_id": "a3",
+          "answer_id": "a2",
           "text": "Observational studies provide no useful information."
         },
         {
-          "answer_id": "a4",
+          "answer_id": "a3",
           "text": "The percentage difference proves coffee caused the lower outcome."
+        },
+        {
+          "answer_id": "a4",
+          "text": "The study reports an association; it does not justify advice to increase coffee intake for heart protection."
         }
       ],
       "consequence": "The group treats the article as evidence of an association, not a prescription.",
@@ -1557,11 +1557,11 @@
       "answers": [
         {
           "answer_id": "a1",
-          "text": "Do not use the email's payment route; independently accessed university records contradict the message."
+          "text": "Use the university-looking link only to inspect the balance, then navigate independently before paying."
         },
         {
           "answer_id": "a2",
-          "text": "Use the university-looking link only to inspect the balance, then navigate independently before paying."
+          "text": "Do not use the email's payment route; independently accessed university records contradict the message."
         },
         {
           "answer_id": "a3",
@@ -1628,15 +1628,15 @@
       "answers": [
         {
           "answer_id": "a1",
-          "text": "The outreach is supported enough to pursue through the independently located company careers site."
-        },
-        {
-          "answer_id": "a2",
           "text": "Any unsolicited recruiter DM is a scam."
         },
         {
-          "answer_id": "a3",
+          "answer_id": "a2",
           "text": "Send the recruiter sensitive information because the job number matches."
+        },
+        {
+          "answer_id": "a3",
+          "text": "The outreach is supported enough to pursue through the independently located company careers site."
         },
         {
           "answer_id": "a4",
@@ -1699,19 +1699,19 @@
       "answers": [
         {
           "answer_id": "a1",
-          "text": "Stop the process and do not deposit or send money based on the recruiter instructions."
-        },
-        {
-          "answer_id": "a2",
           "text": "The company is real, so continue."
         },
         {
-          "answer_id": "a3",
+          "answer_id": "a2",
           "text": "Deposit the check but wait for it to clear before buying equipment."
         },
         {
-          "answer_id": "a4",
+          "answer_id": "a3",
           "text": "Telegram interviews are unusual, so the job must be fake even without other evidence."
+        },
+        {
+          "answer_id": "a4",
+          "text": "Stop the process and do not deposit or send money based on the recruiter instructions."
         }
       ],
       "consequence": "Wei stops before depositing a fake-check-style payment or sending money.",
@@ -1841,19 +1841,19 @@
       "answers": [
         {
           "answer_id": "a1",
-          "text": "The exam remains in the regular classroom; the professor's current message resolves the rumor."
+          "text": "The student reports make the online-exam claim likely enough to act on while waiting for the professor's message."
         },
         {
           "answer_id": "a2",
-          "text": "The syllabus alone proves schedules can never change."
+          "text": "Treat the conclusion as provisional until the authoritative course message appears, then update the decision based on that new evidence."
         },
         {
           "answer_id": "a3",
-          "text": "The rumor was true because it came from another section."
+          "text": "The absence of an immediate professor announcement makes the rumor less likely, so students should plan for the original exam format."
         },
         {
           "answer_id": "a4",
-          "text": "No announcement means the exam must be canceled."
+          "text": "Because the reports conflict, the best approach is to avoid making any conclusion even after an authoritative course update appears."
         }
       ],
       "consequence": "The group changes plans based on the new authoritative evidence.",
@@ -1912,15 +1912,15 @@
       "answers": [
         {
           "answer_id": "a1",
-          "text": "The closure claim is currently supported by the official alert."
-        },
-        {
-          "answer_id": "a2",
           "text": "Screenshots are unreliable, so campus is probably open."
         },
         {
-          "answer_id": "a3",
+          "answer_id": "a2",
           "text": "The screenshot alone proves the closure even without checking it."
+        },
+        {
+          "answer_id": "a3",
+          "text": "The closure claim is currently supported by the official alert."
         },
         {
           "answer_id": "a4",
@@ -1983,19 +1983,19 @@
       "answers": [
         {
           "answer_id": "a1",
-          "text": "The old page is authentic but not sufficient evidence for the current policy."
-        },
-        {
-          "answer_id": "a2",
           "text": "Official-domain information never becomes outdated."
         },
         {
-          "answer_id": "a3",
+          "answer_id": "a2",
           "text": "The old page is fake because the policy changed."
         },
         {
-          "answer_id": "a4",
+          "answer_id": "a3",
           "text": "Use whichever official page has the better price."
+        },
+        {
+          "answer_id": "a4",
+          "text": "The old page is authentic but not sufficient evidence for the current policy."
         }
       ],
       "consequence": "The student uses the current service information rather than the archived page.",
@@ -2125,11 +2125,11 @@
       "answers": [
         {
           "answer_id": "a1",
-          "text": "The poll appears methodologically defensible for the stated population, within its reported uncertainty."
+          "text": "The sample is useful for describing respondents, but about 1,000 students is too small for broader inference."
         },
         {
           "answer_id": "a2",
-          "text": "The sample is useful for describing respondents, but about 1,000 students is too small for broader inference."
+          "text": "The poll appears methodologically defensible for the stated population, within its reported uncertainty."
         },
         {
           "answer_id": "a3",
@@ -2200,15 +2200,15 @@
       "answers": [
         {
           "answer_id": "a1",
-          "text": "An incident occurred, but the cause remains unresolved."
-        },
-        {
-          "answer_id": "a2",
           "text": "It was an attack because that explanation appeared first."
         },
         {
-          "answer_id": "a3",
+          "answer_id": "a2",
           "text": "It was a transformer because two accounts mention electricity."
+        },
+        {
+          "answer_id": "a3",
+          "text": "An incident occurred, but the cause remains unresolved."
         },
         {
           "answer_id": "a4",
@@ -2271,19 +2271,19 @@
       "answers": [
         {
           "answer_id": "a1",
-          "text": "The five appearances do not represent five independent reporting chains."
-        },
-        {
-          "answer_id": "a2",
           "text": "Five websites independently confirm the claim."
         },
         {
-          "answer_id": "a3",
+          "answer_id": "a2",
           "text": "Syndicated reporting is automatically unreliable."
         },
         {
-          "answer_id": "a4",
+          "answer_id": "a3",
           "text": "The AI summary creates a new independent source."
+        },
+        {
+          "answer_id": "a4",
+          "text": "The five appearances do not represent five independent reporting chains."
         }
       ],
       "consequence": "The group stops counting repeated publication as independent corroboration.",
@@ -2338,19 +2338,19 @@
       "answers": [
         {
           "answer_id": "a1",
-          "text": "The forwarded translation overstates the policy; the actual notice applies more narrowly."
+          "text": "Compare the translation with the original policy language and preserve differences in scope or obligation."
         },
         {
           "answer_id": "a2",
-          "text": "Family-chat information is unreliable, so ignore it."
+          "text": "The family translation is usable if several bilingual relatives interpret the message the same way."
         },
         {
           "answer_id": "a3",
-          "text": "The government link proves the viral English wording is accurate."
+          "text": "The official source is more important than translation precision, so an approximate English version is sufficient once provenance is confirmed."
         },
         {
           "answer_id": "a4",
-          "text": "Machine translation is always unusable."
+          "text": "A machine translation plus the original source is enough to treat the strongest English wording as accurate."
         }
       ],
       "consequence": "Wei sends back a narrower explanation and the original notice instead of shaming the sender.",
@@ -2409,11 +2409,11 @@
       "answers": [
         {
           "answer_id": "a1",
-          "text": "The source is authentic, but the viral English caption mistranslates and broadens it."
+          "text": "A real screenshot makes the English caption reliable."
         },
         {
           "answer_id": "a2",
-          "text": "A real screenshot makes the English caption reliable."
+          "text": "The source is authentic, but the viral English caption mistranslates and broadens it."
         },
         {
           "answer_id": "a3",
@@ -2480,15 +2480,15 @@
       "answers": [
         {
           "answer_id": "a1",
-          "text": "Do not use the AI sentence as stated; the source and number are real, but the number refers to a different outcome."
-        },
-        {
-          "answer_id": "a2",
           "text": "Keep the sentence but change “performed” to “practiced” while retaining the AI quotation."
         },
         {
-          "answer_id": "a3",
+          "answer_id": "a2",
           "text": "The real citation makes the AI answer usable as a secondary source even though the wording is imprecise."
+        },
+        {
+          "answer_id": "a3",
+          "text": "Do not use the AI sentence as stated; the source and number are real, but the number refers to a different outcome."
         },
         {
           "answer_id": "a4",
@@ -2551,19 +2551,19 @@
       "answers": [
         {
           "answer_id": "a1",
-          "text": "In this setting, students using the structured AI intervention did better on the measured outcome than the comparison group; that does not establish that AI generally outperforms professors."
-        },
-        {
-          "answer_id": "a2",
           "text": "The study supports saying AI tutoring can outperform traditional instruction, as long as we avoid saying it works in every course."
         },
         {
-          "answer_id": "a3",
+          "answer_id": "a2",
           "text": "The viral post is exaggerated, but the safest summary is simply that AI improved learning."
         },
         {
-          "answer_id": "a4",
+          "answer_id": "a3",
           "text": "The study is promising evidence for AI tutoring, so the professor comparison is reasonable shorthand for a roommate."
+        },
+        {
+          "answer_id": "a4",
+          "text": "In this setting, students using the structured AI intervention did better on the measured outcome than the comparison group; that does not establish that AI generally outperforms professors."
         }
       ],
       "consequence": "You give your roommate a bounded explanation rather than repeating either the hype or an equally sweeping dismissal.",

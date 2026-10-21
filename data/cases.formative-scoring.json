@@ -1,5 +1,5 @@
 {
-  "schema_version": "3.2",
+  "schema_version": "1.0",
   "cases": [
     {
       "case_id": "case-01",
@@ -25,7 +25,7 @@
       "case_id": "case-02",
       "skill": "Claim-to-source fit",
       "target_misconception": "Once a source is real, a broad paraphrase is safe.",
-      "keyed_answer_id": "a1",
+      "keyed_answer_id": "a2",
       "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-02-e1": 3,
@@ -45,7 +45,7 @@
       "case_id": "case-03",
       "skill": "AI evaluation",
       "target_misconception": "AI origin makes advice automatically wrong.",
-      "keyed_answer_id": "a1",
+      "keyed_answer_id": "a3",
       "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-03-e1": 3,
@@ -65,7 +65,7 @@
       "case_id": "case-04",
       "skill": "Uncertainty calibration",
       "target_misconception": "Confidence language is corroboration.",
-      "keyed_answer_id": "a1",
+      "keyed_answer_id": "a4",
       "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-04-e1": 2,
@@ -105,7 +105,7 @@
       "case_id": "case-06",
       "skill": "Rumor verification",
       "target_misconception": "Repetition strengthens an untraceable rumor.",
-      "keyed_answer_id": "a1",
+      "keyed_answer_id": "a2",
       "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-06-e1": 3,
@@ -125,7 +125,7 @@
       "case_id": "case-07",
       "skill": "Source tracing",
       "target_misconception": "Different platforms equal independent corroboration.",
-      "keyed_answer_id": "a1",
+      "keyed_answer_id": "a3",
       "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-07-e1": 3,
@@ -145,7 +145,7 @@
       "case_id": "case-08",
       "skill": "Positive verification",
       "target_misconception": "Informal arrival channels make claims unreliable even after verification.",
-      "keyed_answer_id": "a1",
+      "keyed_answer_id": "a4",
       "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-08-e1": 3,
@@ -185,7 +185,7 @@
       "case_id": "case-10",
       "skill": "Research persistence",
       "target_misconception": "No instant PDF means a source is unusable.",
-      "keyed_answer_id": "a1",
+      "keyed_answer_id": "a2",
       "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-10-e1": 3,
@@ -205,7 +205,7 @@
       "case_id": "case-11",
       "skill": "Contextual authority",
       "target_misconception": "Prestigious credentials transfer to unrelated domains.",
-      "keyed_answer_id": "a1",
+      "keyed_answer_id": "a3",
       "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-11-e1": 2,
@@ -225,7 +225,7 @@
       "case_id": "case-12",
       "skill": "Numerical claim tracing",
       "target_misconception": "A plausible general idea validates a precise statistic.",
-      "keyed_answer_id": "a1",
+      "keyed_answer_id": "a4",
       "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-12-e1": 3,
@@ -265,7 +265,7 @@
       "case_id": "case-14",
       "skill": "Context restoration",
       "target_misconception": "Authentic pixels guarantee complete context.",
-      "keyed_answer_id": "a1",
+      "keyed_answer_id": "a2",
       "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-14-e1": 3,
@@ -285,7 +285,7 @@
       "case_id": "case-15",
       "skill": "Synthetic-media evaluation",
       "target_misconception": "AI detectors are truth machines.",
-      "keyed_answer_id": "a1",
+      "keyed_answer_id": "a3",
       "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-15-e1": 3,
@@ -305,7 +305,7 @@
       "case_id": "case-16",
       "skill": "Video context",
       "target_misconception": "Authentic video necessarily provides complete context.",
-      "keyed_answer_id": "a1",
+      "keyed_answer_id": "a4",
       "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-16-e1": 3,
@@ -345,7 +345,7 @@
       "case_id": "case-18",
       "skill": "Health-claim evaluation",
       "target_misconception": "Any cited study validates the marketing claim.",
-      "keyed_answer_id": "a1",
+      "keyed_answer_id": "a2",
       "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-18-e1": 3,
@@ -365,7 +365,7 @@
       "case_id": "case-19",
       "skill": "Contextual authority",
       "target_misconception": "Platform determines credibility.",
-      "keyed_answer_id": "a1",
+      "keyed_answer_id": "a3",
       "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-19-e1": 3,
@@ -385,7 +385,7 @@
       "case_id": "case-20",
       "skill": "Headline-study comparison",
       "target_misconception": "A health association automatically supports behavioral advice.",
-      "keyed_answer_id": "a1",
+      "keyed_answer_id": "a4",
       "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-20-e1": 3,
@@ -425,7 +425,7 @@
       "case_id": "case-22",
       "skill": "Phishing verification",
       "target_misconception": "Polished branding makes an urgent account message trustworthy.",
-      "keyed_answer_id": "a1",
+      "keyed_answer_id": "a2",
       "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-22-e1": 3,
@@ -445,7 +445,7 @@
       "case_id": "case-23",
       "skill": "Opportunity verification",
       "target_misconception": "Unsolicited recruiting is always fraudulent.",
-      "keyed_answer_id": "a1",
+      "keyed_answer_id": "a3",
       "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-23-e1": 2,
@@ -465,7 +465,7 @@
       "case_id": "case-24",
       "skill": "Job-scam investigation",
       "target_misconception": "A real company identity validates the recruiter using its name.",
-      "keyed_answer_id": "a1",
+      "keyed_answer_id": "a4",
       "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-24-e1": 3,
@@ -505,7 +505,7 @@
       "case_id": "case-26",
       "skill": "Updating conclusions",
       "target_misconception": "Changing your mind after new evidence means the original investigation failed.",
-      "keyed_answer_id": "a1",
+      "keyed_answer_id": "a2",
       "ideal_high_value_checks": 3,
       "evidence_values": {
         "case-26-e1": 2,
@@ -525,7 +525,7 @@
       "case_id": "case-27",
       "skill": "Positive verification",
       "target_misconception": "Screenshots should always be rejected.",
-      "keyed_answer_id": "a1",
+      "keyed_answer_id": "a3",
       "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-27-e1": 3,
@@ -545,7 +545,7 @@
       "case_id": "case-28",
       "skill": "Currency",
       "target_misconception": "Official sources remain equally suitable regardless of date.",
-      "keyed_answer_id": "a1",
+      "keyed_answer_id": "a4",
       "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-28-e1": 3,
@@ -585,7 +585,7 @@
       "case_id": "case-30",
       "skill": "Polling literacy",
       "target_misconception": "Large populations always require enormous samples.",
-      "keyed_answer_id": "a1",
+      "keyed_answer_id": "a2",
       "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-30-e1": 3,
@@ -605,7 +605,7 @@
       "case_id": "case-31",
       "skill": "Breaking-news uncertainty",
       "target_misconception": "Breaking information must immediately resolve into a cause.",
-      "keyed_answer_id": "a1",
+      "keyed_answer_id": "a3",
       "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-31-e1": 3,
@@ -625,7 +625,7 @@
       "case_id": "case-32",
       "skill": "News-source independence",
       "target_misconception": "Publication count equals independent confirmation.",
-      "keyed_answer_id": "a1",
+      "keyed_answer_id": "a4",
       "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-32-e1": 3,
@@ -665,7 +665,7 @@
       "case_id": "case-34",
       "skill": "Translation + provenance",
       "target_misconception": "Real screenshot equals accurate translated claim.",
-      "keyed_answer_id": "a1",
+      "keyed_answer_id": "a2",
       "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-34-e1": 3,
@@ -685,7 +685,7 @@
       "case_id": "case-35",
       "skill": "AI citation tracing",
       "target_misconception": "Real citation + real number guarantees accurate attribution.",
-      "keyed_answer_id": "a1",
+      "keyed_answer_id": "a3",
       "ideal_high_value_checks": 2,
       "evidence_values": {
         "case-35-e1": 2,
@@ -705,7 +705,7 @@
       "case_id": "case-36",
       "skill": "Synthesis",
       "target_misconception": "The goal is merely to label the viral post true or false.",
-      "keyed_answer_id": "a1",
+      "keyed_answer_id": "a4",
       "ideal_high_value_checks": 3,
       "evidence_values": {
         "case-36-e1": 3,
