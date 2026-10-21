@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "root_cause": "Generic global function name submit() can collide with the browser's built-in form/window submit semantics. Renamed the shared handler to submitInvestigation() and added a missing-scoring-data guard.",
+  "checks": {
+    "unique_handler_defined": true,
+    "button_calls_unique_handler": true,
+    "old_function_removed": true,
+    "old_inline_call_removed": true,
+    "protected_records_present": true,
+    "practice_and_capstone_share_handler": true
+  }
+}
