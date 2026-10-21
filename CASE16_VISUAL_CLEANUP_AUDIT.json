@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "scope": "Case 16 visual cleanup only",
+  "checks": {
+    "progressive_disclosure_logic_unchanged": true,
+    "before_image_explanatory_overlay_removed": true,
+    "after_image_explanatory_overlay_removed": true,
+    "captions_below_images_retained_in_case_data": true,
+    "viral_excerpt_unchanged": true
+  }
+}
