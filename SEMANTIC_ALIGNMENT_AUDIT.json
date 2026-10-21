@@ -1,0 +1,163 @@
+{
+  "status": "PASS",
+  "cases_checked": 13,
+  "semantic_alignment": [
+    {
+      "case": 13,
+      "title": "Wait\u2026Is That Here?",
+      "required_concepts": [
+        "celebrity",
+        "local",
+        "today"
+      ],
+      "missing": [],
+      "aligned": true
+    },
+    {
+      "case": 14,
+      "title": "The Cropped Protest Photo",
+      "required_concepts": [
+        "crop",
+        "driver"
+      ],
+      "missing": [],
+      "aligned": true
+    },
+    {
+      "case": 15,
+      "title": "Is This AI-Generated?",
+      "required_concepts": [
+        "synthetic",
+        "image"
+      ],
+      "missing": [],
+      "aligned": true
+    },
+    {
+      "case": 16,
+      "title": "The Video Starts 12 Seconds Late",
+      "required_concepts": [
+        "14",
+        "clip",
+        "reason"
+      ],
+      "missing": [],
+      "aligned": true
+    },
+    {
+      "case": 22,
+      "title": "Your Account Will Be Locked Today",
+      "required_concepts": [
+        "4 HOURS",
+        "balance"
+      ],
+      "missing": [],
+      "aligned": true
+    },
+    {
+      "case": 23,
+      "title": "A Recruiter Just DM'd Me",
+      "required_concepts": [
+        "INT-2047",
+        "Meridian"
+      ],
+      "missing": [],
+      "aligned": true
+    },
+    {
+      "case": 27,
+      "title": "CAMPUS CLOSED TOMORROW",
+      "required_concepts": [
+        "closed",
+        "weather"
+      ],
+      "missing": [],
+      "aligned": true
+    },
+    {
+      "case": 29,
+      "title": "This Chart Looks Terrifying",
+      "required_concepts": [
+        "100",
+        "103",
+        "300"
+      ],
+      "missing": [],
+      "aligned": true
+    },
+    {
+      "case": 30,
+      "title": "90% of Students Agree!",
+      "required_concepts": [
+        "90%",
+        "1,012",
+        "library"
+      ],
+      "missing": [],
+      "aligned": true
+    },
+    {
+      "case": 31,
+      "title": "BREAKING: Nobody Knows Yet",
+      "required_concepts": [
+        "explosion",
+        "cause",
+        "determined"
+      ],
+      "missing": [],
+      "aligned": true
+    },
+    {
+      "case": 33,
+      "title": "Mom Sent This in the Family Chat",
+      "required_concepts": [
+        "student",
+        "fee",
+        "must pay"
+      ],
+      "missing": [],
+      "aligned": true
+    },
+    {
+      "case": 35,
+      "title": "AI Search Quoted the Article",
+      "required_concepts": [
+        "34%",
+        "citation",
+        "performed"
+      ],
+      "missing": [],
+      "aligned": true
+    },
+    {
+      "case": 36,
+      "title": "AI Tutor Beat the Professor!",
+      "required_concepts": [
+        "AI",
+        "professor",
+        "obsolete"
+      ],
+      "missing": [],
+      "aligned": true
+    }
+  ],
+  "explicit_mismatch_findings": [],
+  "corrected_cases": [
+    13,
+    15,
+    16,
+    22,
+    23,
+    27,
+    30,
+    31,
+    33,
+    35,
+    36
+  ],
+  "unchanged_already_aligned": [
+    14,
+    29
+  ],
+  "institution_neutrality_note": "Removed remaining Kokomo references found in Case 13; Case 27 uses fictional Northbridge University."
+}

@@ -1,10 +1,10 @@
-Upload all files/folders to the repository root:
+Upload all files/folders to repository root:
 - play.html
 - data/cases.public.json
 - assets/multimodal.css
-- MODALITY_RENDER_AUDIT.json
+- SEMANTIC_ALIGNMENT_AUDIT.json
 
 Commit:
-Fix multimodal artifact rendering and remove duplicates
+Align multimodal artifacts with case scenarios
 
-After deployment hard-refresh and test Case 29 first. It should show one actual bar chart, not flattened numbers and not a duplicate text chart.
+This corrects semantic mismatches across all 13 multimodal cases, including Cases 33 and 35.
