@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "cases_checked": 36,
+  "key_position_distribution": {
+    "a1": 9,
+    "a2": 9,
+    "a3": 9,
+    "a4": 9
+  },
+  "visual_cases_13_16": {
+    "13": "approved existing realistic social-photo artifact",
+    "14": "replaced with semantically exact simulated crop/wider reconstruction",
+    "15": "approved existing realistic ambiguous-photo artifact",
+    "16": "replaced with semantically exact before/viral/after reconstruction"
+  },
+  "blockers": []
+}

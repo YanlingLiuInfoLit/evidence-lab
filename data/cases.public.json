@@ -966,7 +966,7 @@
           "text": "what's outside the crop?"
         }
       ],
-      "starter_html": "<figure class=\"artifact case-photo-artifact\"><img src=\"assets/case14-crop-context.png\" alt=\"Evidence Lab simulated evidence showing a tightly cropped photograph of a damaged car beside a person and a wider view revealing the surrounding setting and context.\" loading=\"lazy\"><figcaption>Simulated instructional artifact created for Evidence Lab.</figcaption></figure>",
+      "starter_html": "<figure class=\"artifact case-photo-artifact\"><img src=\"assets/case14-crop-context.png\" alt=\"Simulated instructional reconstruction showing the same stopped vehicle twice: a tight crop makes nearby people appear to surround the driver, while the wider frame reveals traffic cones and people directing traffic around the vehicle during a campus event detour.\" loading=\"lazy\"><figcaption>Simulated instructional reconstruction created for Evidence Lab.</figcaption></figure>",
       "evidence": [
         {
           "evidence_id": "case-14-e1",
@@ -1108,7 +1108,7 @@
           "text": "full clip?"
         }
       ],
-      "starter_html": "<figure class=\"artifact case-photo-artifact\"><img src=\"assets/case16-video-context.png\" alt=\"Evidence Lab simulated video-context sequence with three frames labeled before, viral clip, and after; the surrounding frames provide context missing from the short circulating excerpt.\" loading=\"lazy\"><figcaption>Simulated instructional artifact created for Evidence Lab.</figcaption></figure>",
+      "starter_html": "<figure class=\"artifact case-photo-artifact\"><img src=\"assets/case16-video-context.png\" alt=\"Simulated three-frame video sequence from one campus conversation. The missing twelve seconds show one student repeatedly interrupting another; the viral excerpt begins with the interrupted student shouting, and the later frame shows the conversation de-escalating.\" loading=\"lazy\"><figcaption>Simulated instructional reconstruction created for Evidence Lab.</figcaption></figure>",
       "evidence": [
         {
           "evidence_id": "case-16-e1",
