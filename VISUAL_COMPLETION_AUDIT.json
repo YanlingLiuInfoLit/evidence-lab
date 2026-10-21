@@ -1,0 +1,48 @@
+{
+  "status": "PASS",
+  "cases_checked": [
+    13,
+    14,
+    15,
+    16
+  ],
+  "checks": [
+    {
+      "case": 13,
+      "asset": "assets/case13-social-photo.png",
+      "asset_exists": true,
+      "asset_bytes": 380184,
+      "img_reference": true,
+      "alt_text_present": true,
+      "placeholder_emoji_absent": true
+    },
+    {
+      "case": 14,
+      "asset": "assets/case14-crop-context.png",
+      "asset_exists": true,
+      "asset_bytes": 481305,
+      "img_reference": true,
+      "alt_text_present": true,
+      "placeholder_emoji_absent": true
+    },
+    {
+      "case": 15,
+      "asset": "assets/case15-ambiguous-photo.png",
+      "asset_exists": true,
+      "asset_bytes": 400010,
+      "img_reference": true,
+      "alt_text_present": true,
+      "placeholder_emoji_absent": true
+    },
+    {
+      "case": 16,
+      "asset": "assets/case16-video-context.png",
+      "asset_exists": true,
+      "asset_bytes": 390027,
+      "img_reference": true,
+      "alt_text_present": true,
+      "placeholder_emoji_absent": true
+    }
+  ],
+  "source": "Cropped from the previously generated Evidence Lab Visual Evidence Completion composite; no new image generation used."
+}

@@ -895,7 +895,7 @@
           "text": "it was posted today?"
         }
       ],
-      "starter_html": "<section class=\"artifact\" aria-label=\"Simulated social post claiming a celebrity photograph was taken locally today\"><div class=\"artifact-kicker\">SOCIAL POST</div><p><b>@CitySpotted</b> · 2h</p><div style=\"min-height:160px;background:#eef2f7;border-radius:12px;display:grid;place-items:center;font-size:3.2rem\">📸 ⭐ 🚙</div><p style=\"font-size:1.15rem;font-weight:800\">AMARA VALE SPOTTED HERE TODAY 👀</p><p class=\"muted\">Photographer not listed · Location not verified</p></section>",
+      "starter_html": "<figure class=\"artifact case-photo-artifact\"><img src=\"assets/case13-social-photo.png\" alt=\"Evidence Lab simulated social-media post showing a woman in sunglasses at a local farmers market; the post claims she is a celebrity spotted locally.\" loading=\"lazy\"><figcaption>Simulated instructional artifact created for Evidence Lab.</figcaption></figure>",
       "evidence": [
         {
           "evidence_id": "case-13-e1",
@@ -966,7 +966,7 @@
           "text": "what's outside the crop?"
         }
       ],
-      "starter_html": "<figure class=\"artifact\" role=\"img\" aria-label=\"Tightly cropped simulated protest image showing people close to a stopped car while the wider surroundings are omitted.\"><div class=\"artifact-kicker\">VIRAL IMAGE · CROPPED</div><div style=\"min-height:190px;border-radius:12px;background:#d9e2e8;display:flex;align-items:flex-end;justify-content:center;gap:10px;padding:24px\"><span style=\"font-size:5rem\">🚙</span><span style=\"font-size:2rem\">🧍 🧍‍♀️ 🧍 🧍‍♂️</span></div><figcaption>“Protesters surround and threaten driver”</figcaption></figure>",
+      "starter_html": "<figure class=\"artifact case-photo-artifact\"><img src=\"assets/case14-crop-context.png\" alt=\"Evidence Lab simulated evidence showing a tightly cropped photograph of a damaged car beside a person and a wider view revealing the surrounding setting and context.\" loading=\"lazy\"><figcaption>Simulated instructional artifact created for Evidence Lab.</figcaption></figure>",
       "evidence": [
         {
           "evidence_id": "case-14-e1",
@@ -1037,7 +1037,7 @@
           "text": "another detector says 31%..."
         }
       ],
-      "starter_html": "<figure class=\"artifact\" role=\"img\" aria-label=\"Simulated unusual city photograph with reflections and architectural geometry that could be mistaken for synthetic-media artifacts\"><div class=\"artifact-kicker\">UNUSUAL CITY PHOTOGRAPH</div><div style=\"min-height:210px;border-radius:12px;background:linear-gradient(135deg,#dce7ef 0 45%,#6c7a89 45% 52%,#cbd8e2 52% 70%,#8aa0b2 70%);display:grid;place-items:center;font-size:3rem\">🏙️ 🪟 🌆</div><figcaption>Friends disagree about whether the image is synthetic based on visual “tells.”</figcaption></figure>",
+      "starter_html": "<figure class=\"artifact case-photo-artifact\"><img src=\"assets/case15-ambiguous-photo.png\" alt=\"Evidence Lab simulated social-media photograph of a mountain lake, snow-capped peaks, trees, and a red canoe, used to evaluate whether visual tells alone can establish that an image is AI-generated.\" loading=\"lazy\"><figcaption>Simulated instructional artifact created for Evidence Lab.</figcaption></figure>",
       "evidence": [
         {
           "evidence_id": "case-15-e1",
@@ -1108,7 +1108,7 @@
           "text": "full clip?"
         }
       ],
-      "starter_html": "<figure class=\"artifact\" role=\"img\" aria-label=\"Simulated 14-second viral video excerpt whose visible timeline begins at the moment one student shouts\"><div class=\"artifact-kicker\">VIRAL CLIP · 14 SEC</div><div style=\"min-height:190px;background:#202735;color:white;border-radius:12px;display:grid;place-items:center\"><div style=\"text-align:center\"><div style=\"font-size:3rem\">▶</div><b>0:00 — “DON'T TALK TO ME LIKE THAT!”</b><br><span>0:07 — Student A walks away</span></div></div><div style=\"display:flex;align-items:center;gap:8px;margin-top:10px\"><b>0:00</b><div style=\"height:6px;background:#667bd8;flex:1;border-radius:4px\"></div><b>0:14</b></div><figcaption>Caption: “Student explodes for NO REASON.”</figcaption></figure>",
+      "starter_html": "<figure class=\"artifact case-photo-artifact\"><img src=\"assets/case16-video-context.png\" alt=\"Evidence Lab simulated video-context sequence with three frames labeled before, viral clip, and after; the surrounding frames provide context missing from the short circulating excerpt.\" loading=\"lazy\"><figcaption>Simulated instructional artifact created for Evidence Lab.</figcaption></figure>",
       "evidence": [
         {
           "evidence_id": "case-16-e1",
@@ -2453,7 +2453,7 @@
           "text": "does the article actually say that?"
         }
       ],
-      "starter_html": "<section class=\"artifact\" aria-label=\"Simulated AI search answer claiming students using AI tutors performed 34 percent better and citing a real article\"><div class=\"artifact-kicker\">AI SEARCH · ANSWER WITH CITATION</div><div style=\"background:#f4f6fb;padding:14px;border-radius:12px\"><p>“According to <i>The Chronicle</i>, students using AI tutors <b>performed 34% better</b> than students receiving traditional instruction.”</p><p><b>Citation:</b> Chen, R. &amp; Patel, M. “Structured AI Tutoring in Undergraduate Learning.” <i>The Chronicle of Learning Research</i>.</p></div><p class=\"muted\">A real citation is supplied. Does it support the exact sentence and number?</p></section>",
+      "starter_html": "<section class=\"artifact\" aria-label=\"Simulated AI search answer claiming students using AI tutors performed 34 percent better and citing a research article\"><div class=\"artifact-kicker\">AI SEARCH · ANSWER WITH CITATION</div><div style=\"background:#f4f6fb;padding:14px;border-radius:12px\"><p>“According to <i>The Chronicle of Learning Research</i>, students using AI tutors <b>performed 34% better</b> than students receiving traditional instruction.”</p><p><b>Citation:</b> Chen, R. &amp; Patel, M. “Structured AI Tutoring in Undergraduate Learning.” <i>The Chronicle of Learning Research</i>.</p></div><p class=\"muted\">A citation is supplied. Does the cited article support the exact sentence and the 34% figure?</p></section>",
       "evidence": [
         {
           "evidence_id": "case-35-e1",
