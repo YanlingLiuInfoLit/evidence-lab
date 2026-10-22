@@ -44,3 +44,8 @@ A DOI citation will be added after the Version 1.0 Zenodo archival release.
 ## Roadmap
 
 A future advanced version may add a genuinely multi-stage Advanced Investigation. The current 1.0 release does not use the earlier Practice/Capstone split.
+
+
+## Pedagogical alignment
+
+Evidence Lab is informed by and aligned with the *ACRL Framework for Information Literacy for Higher Education* (2026 revision). It is not intended as a comprehensive implementation or assessment of every Framework knowledge practice or disposition. The strongest alignments are with Authority Is Constructed and Contextual, Information Creation as a Process, Research as Inquiry, Scholarship as Conversation, and Searching as Strategic Exploration; Information Has Value is addressed selectively through cases involving sponsorship, financial incentives, access, personal information, and related decisions.

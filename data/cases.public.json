@@ -1289,7 +1289,7 @@
         }
       ],
       "consequence": "Priya does not treat the promotional claim as established by the cited study.",
-      "transfer_principle": "Match health claims to the population, duration, outcomes, and independence of the evidence.",
+      "transfer_principle": "Match health claims to the population, duration, outcomes, independence of the evidence, and financial relationships surrounding the recommendation.",
       "evidence_status": "HYBRID",
       "accessibility_requirement": "No product purchase links; study design/results and disclosure are text-readable.",
       "visual_asset": null,
@@ -1502,7 +1502,7 @@
         }
       ],
       "consequence": "Priya does not send money or identity documents through the award message.",
-      "transfer_principle": "Verify unexpected financial opportunities independently before money or sensitive information changes hands.",
+      "transfer_principle": "Money and personal information both have value. Verify unexpected opportunities independently before either changes hands.",
       "evidence_status": "SIMULATION",
       "accessibility_requirement": "Email fields and payment instructions are text-readable.",
       "visual_asset": null,
