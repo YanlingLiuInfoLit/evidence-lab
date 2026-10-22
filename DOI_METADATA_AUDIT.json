@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "version_doi": "10.5281/zenodo.23567784",
+  "all_versions_doi": "10.5281/zenodo.23567783",
+  "citation_surfaces": [
+    "README.md",
+    "cite.html",
+    "about.html",
+    "CITATION.cff",
+    "ATTRIBUTION.md",
+    "educators/Evidence_Lab_Teaching_Guide_v1.0.docx"
+  ],
+  "functional_files_changed": false
+}

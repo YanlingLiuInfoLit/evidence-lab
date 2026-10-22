@@ -1,25 +1,15 @@
-# Evidence Lab — Attribution and Citation
+# Attribution and citation
 
-## Creator
+Evidence Lab was created by Yanling Liu, Indiana University Kokomo.
 
-**Evidence Lab was created by Yanling Liu, Coordinator of Information Literacy and Research Services at Indiana University Kokomo.**
+## Cite Version 1.0.0
 
-Evidence Lab is an institution-neutral information-literacy investigation game designed to help college students practice evaluating evidence, tracing information, calibrating uncertainty, and making responsible information decisions across research, AI, social media, news, visual media, careers, and everyday life.
+Liu, Y. (2026). Evidence Lab: An Information-Literacy Investigation Game (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23567784
 
-The views and design of Evidence Lab are those of the creator and do not necessarily represent Indiana University policy or endorsement.
+Version DOI: https://doi.org/10.5281/zenodo.23567784
 
-## Preferred citation
+All-versions DOI: https://doi.org/10.5281/zenodo.23567783
 
-Liu, Y. (2026). *Evidence Lab: Follow the evidence. Make the call* (Version 1.0) [Educational software]. https://yanlingliuinfolit.github.io/evidence-lab/
+## Licensing
 
-## Reuse attribution
-
-> Evidence Lab by Yanling Liu, licensed under CC BY 4.0. Original: https://yanlingliuinfolit.github.io/evidence-lab/
-
-If you adapt the educational content, indicate that changes were made.
-
-## Licensing summary
-
-- Original educational content and teaching materials: **CC BY 4.0**.
-- Original software/code: **MIT License**.
-- Cases 13–16 visual artifacts: simulated AI-generated instructional artifacts created specifically for Evidence Lab and included for educational reuse with the project.
+Original educational content and teaching materials are licensed under CC BY 4.0 except where otherwise noted. Original software/code is licensed under the MIT License. Third-party material is not relicensed by these notices.

@@ -6,6 +6,8 @@ Evidence Lab is an institution-neutral information-literacy investigation game f
 
 Live site: https://yanlingliuinfolit.github.io/evidence-lab/
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23567783.svg)](https://doi.org/10.5281/zenodo.23567783)
+
 ## Evidence Lab 1.0 experience
 
 Students can choose **2-, 5-, 10-, or 20-minute challenges** or select any of the **36 individual cases**. Challenge times are estimates, not countdowns. Case complexity is organized as Guided, Networked, Contextual, and Synthesis.
@@ -37,9 +39,16 @@ Original educational content and teaching materials: **CC BY 4.0**. Original sof
 
 ## Citation
 
-Liu, Y. (2026). *Evidence Lab: Follow the evidence. Make the call* (Version 1.0) [Educational software]. https://yanlingliuinfolit.github.io/evidence-lab/
+**Recommended citation for Version 1.0.0:**
 
-A DOI citation will be added after the Version 1.0 Zenodo archival release.
+Liu, Y. (2026). *Evidence Lab: An Information-Literacy Investigation Game* (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23567784
+
+- Version 1.0.0 DOI: [10.5281/zenodo.23567784](https://doi.org/10.5281/zenodo.23567784)
+- All-versions DOI: [10.5281/zenodo.23567783](https://doi.org/10.5281/zenodo.23567783)
+- Live site: https://yanlingliuinfolit.github.io/evidence-lab/
+- GitHub repository: https://github.com/YanlingLiuInfoLit/evidence-lab
+
+The version DOI identifies the exact archived v1.0.0 release. The all-versions DOI represents the evolving Evidence Lab project and resolves to its latest Zenodo version.
 
 ## Roadmap
 

@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use Evidence Lab, please cite the software using the metadata below."
+title: "Evidence Lab: An Information-Literacy Investigation Game"
+type: software
+version: "1.0.0"
+doi: "10.5281/zenodo.23567784"
+date-released: "2026-10-22"
+authors:
+  - family-names: "Liu"
+    given-names: "Yanling"
+    orcid: "https://orcid.org/0009-0001-6820-5411"
+    affiliation: "Indiana University Kokomo"
+repository-code: "https://github.com/YanlingLiuInfoLit/evidence-lab"
+url: "https://yanlingliuinfolit.github.io/evidence-lab/"
+license: MIT
+keywords:
+  - information literacy
+  - information evaluation
+  - source evaluation
+  - lateral reading
+  - misinformation
+  - artificial intelligence
+  - AI literacy
+  - higher education
+  - educational game
+  - open educational resource
